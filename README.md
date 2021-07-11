@@ -11,9 +11,6 @@ To add another language, copy preset.pot to preset_xx.po.
 Translate the strings in preset_xx.po.
 Put both into a .zip file and use it as your preset in Vespucci.
 
-In the moment it's only in DE available.
-In the next days EN and FR will follow.
-
 If there are corrections needed, let me know.
 
 More information about Vespucci presets: https://vespucci.io/tutorials/presets/
