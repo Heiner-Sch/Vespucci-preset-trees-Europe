@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-07-11 12:58+0200\n"
-"PO-Revision-Date: 2021-07-11 HO:MI+ZONE\n"
+"POT-Creation-Date: 2024-04-21 12:58+0200\n"
+"PO-Revision-Date: 2024-04-21 HO:MI+ZONE\n"
 "Last-Translator: Heiner Schaefer <EMAIL@ADDRESS>\n"
 "Language-Team: DE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -248,10 +248,6 @@ msgstr "Hahnensporn-Weißdorn"
 #: Vespucci-Trees-botanic.xml:1595(item:name|group:Crataegus|preset:Crataegus_laevigata) Vespucci-Trees-botanic.xml:2036(item:name|group:Crataegus|preset:Crataegus_laevigata)
 msgid "Crataegus laevigata"
 msgstr "Gemeiner Weißdorn"
-
-#: Vespucci-Trees-botanic.xml:1599(item:name|group:Crataegus|preset:Crataegus_laevigata_Paul’s_Scarlet) Vespucci-Trees-botanic.xml:2040(item:name|group:Crataegus|preset:Crataegus_laevigata_Paul’s_Scarlet)
-msgid "Crataegus laevigata Paul’s Scarlet"
-msgstr "Echter Rotdorn"
 
 #: Vespucci-Trees-botanic.xml:1583(item:name|group:Crataegus|preset:Crataegus_monogyna) Vespucci-Trees-botanic.xml:2024(item:name|group:Crataegus|preset:Crataegus_monogyna)
 msgid "Crataegus monogyna"
@@ -624,6 +620,22 @@ msgstr "Tauerweide"
 #: Vespucci-Trees-botanic.xml:1423(item:name|group:Salix|preset:Salix_caprea) Vespucci-Trees-botanic.xml:2198(item:name|group:Salix|preset:Salix_caprea)
 msgid "Salix caprea"
 msgstr "Salweide"
+
+#: Vespucci-Trees-botanic.xml:699(item:name|group:Salix|preset:Salix_viminalis) Vespucci-Trees-botanic.xml:1445(item:name|group:Salix|preset:Salix_viminalis)
+msgid "Salix viminalis"
+msgstr "Korb-Weide"
+
+#: Vespucci-Trees-botanic.xml:705(item:name|group:Salix|preset:Salix_fragilis) Vespucci-Trees-botanic.xml:1449(item:name|group:Salix|preset:Salix_fragilis)
+msgid "Salix fragilis"
+msgstr "Bruch-Weide"
+
+#: Vespucci-Trees-botanic.xml:711(item:name|group:Salix|preset:Salix_pentandra) Vespucci-Trees-botanic.xml:1453(item:name|group:Salix|preset:Salix_pentandra)
+msgid "Salix pentandra"
+msgstr "Lorbeer-Weide"
+
+#: Vespucci-Trees-botanic.xml:717(item:name|group:Salix|preset:Salix_nigra) Vespucci-Trees-botanic.xml:1457(item:name|group:Salix|preset:Salix_nigra)
+msgid "Salix nigra"
+msgstr "Amerikanische Schwarz-Weide"
 
 #: Vespucci-Trees-botanic.xml:1410(item:name|group:Salix|preset:Salix_n.sp.) Vespucci-Trees-botanic.xml:2185(item:name|group:Salix|preset:Salix_n.sp.)
 msgid "Salix n.sp."

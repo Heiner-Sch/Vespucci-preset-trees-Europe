@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-07-11 12:58+0200\n"
-"PO-Revision-Date: 2021-07-11 17:40+0100\n"
+"POT-Creation-Date: 2024-04-21 12:58+0200\n"
+"PO-Revision-Date: 2024-04-21 17:40+0100\n"
 "Last-Translator: Heiner Schaefer <EMAIL@ADDRESS>\n"
 "Language-Team: EN <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -248,10 +248,6 @@ msgstr "Cockspur hawthorn"
 #: Vespucci-Trees-botanic.xml:1579(item:name|group:Crataegus|preset:Crataegus_laevigata) Vespucci-Trees-botanic.xml:2011(item:name|group:Crataegus|preset:Crataegus_laevigata)
 msgid "Crataegus laevigata"
 msgstr "Midland hawthorn"
-
-#: Vespucci-Trees-botanic.xml:1583(item:name|group:Crataegus|preset:Crataegus_laevigata_Paul’s_Scarlet) Vespucci-Trees-botanic.xml:2015(item:name|group:Crataegus|preset:Crataegus_laevigata_Paul’s_Scarlet)
-msgid "Crataegus laevigata Paul’s Scarlet"
-msgstr "Red-thorn"
 
 #: Vespucci-Trees-botanic.xml:1567(item:name|group:Crataegus|preset:Crataegus_monogyna) Vespucci-Trees-botanic.xml:1999(item:name|group:Crataegus|preset:Crataegus_monogyna)
 msgid "Crataegus monogyna"
@@ -624,6 +620,22 @@ msgstr "Golden weeping willow"
 #: Vespucci-Trees-botanic.xml:1407(item:name|group:Salix|preset:Salix_caprea) Vespucci-Trees-botanic.xml:2173(item:name|group:Salix|preset:Salix_caprea)
 msgid "Salix caprea"
 msgstr "Goat willow"
+
+#: Vespucci-Trees-botanic.xml:699(item:name|group:Salix|preset:Salix_viminalis) Vespucci-Trees-botanic.xml:1445(item:name|group:Salix|preset:Salix_viminalis)
+msgid "Salix viminalis"
+msgstr "Basket willow"
+
+#: Vespucci-Trees-botanic.xml:705(item:name|group:Salix|preset:Salix_fragilis) Vespucci-Trees-botanic.xml:1449(item:name|group:Salix|preset:Salix_fragilis)
+msgid "Salix fragilis"
+msgstr "Eastern crack-willow"
+
+#: Vespucci-Trees-botanic.xml:711(item:name|group:Salix|preset:Salix_pentandra) Vespucci-Trees-botanic.xml:1453(item:name|group:Salix|preset:Salix_pentandra)
+msgid "Salix pentandra"
+msgstr "Bay willow"
+
+#: Vespucci-Trees-botanic.xml:717(item:name|group:Salix|preset:Salix_nigra) Vespucci-Trees-botanic.xml:1457(item:name|group:Salix|preset:Salix_nigra)
+msgid "Salix nigra"
+msgstr "Black willow"
 
 #: Vespucci-Trees-botanic.xml:1394(item:name|group:Salix|preset:Salix_n.sp.) Vespucci-Trees-botanic.xml:2160(item:name|group:Salix|preset:Salix_n.sp.)
 msgid "Salix n.sp."

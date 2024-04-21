@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
   author="HeinerSchaefer"
-  version="0.7 2021-07"
+  version="0.8 2024-04"
   shortdescription=""
   description="">
 
@@ -108,63 +108,63 @@
     <!-- Cedrus -->
 
     <!-- Picea -->
-         <chunk id="Picea" >
-            <key key="genus" value="Picea" />
-            <text key="species" text="Species" />
-            <key key="leaf_cycle" value="evergreen" />
-            <key key="leaf_type" value="needleleaved" />
-         </chunk>
-         <chunk id="Picea_abies" >
-            <key key="genus" value="Picea" />
-            <key key="species" value="Picea abies" />
-            <key key="leaf_cycle" value="evergreen" />
-            <key key="leaf_type" value="needleleaved" />
-         </chunk>
-         <chunk id="Picea_pungens" >
-            <key key="genus" value="Picea" />
-            <key key="species" value="Picea pungens" />
-            <key key="leaf_cycle" value="evergreen" />
-            <key key="leaf_type" value="needleleaved" />
-         </chunk>
+        <chunk id="Picea" >
+           <key key="genus" value="Picea" />
+           <text key="species" text="Species" />
+           <key key="leaf_cycle" value="evergreen" />
+           <key key="leaf_type" value="needleleaved" />
+        </chunk>
+        <chunk id="Picea_abies" >
+           <key key="genus" value="Picea" />
+           <key key="species" value="Picea abies" />
+           <key key="leaf_cycle" value="evergreen" />
+           <key key="leaf_type" value="needleleaved" />
+        </chunk>
+        <chunk id="Picea_pungens" >
+           <key key="genus" value="Picea" />
+           <key key="species" value="Picea pungens" />
+           <key key="leaf_cycle" value="evergreen" />
+           <key key="leaf_type" value="needleleaved" />
+        </chunk>
     <!-- Picea -->
 
     <!-- Pinus -->
-         <chunk id="Pinus" >
-            <key key="genus" value="Pinus" />
-            <text key="species" text="Species" />
-            <key key="leaf_cycle" value="evergreen" />
-            <key key="leaf_type" value="needleleaved" />
-         </chunk>
-         <chunk id="Pinus_sylvestris" >
-            <key key="genus" value="Pinus" />
-            <key key="species" value="Pinus sylvestris" />
-            <key key="leaf_cycle" value="evergreen" />
-            <key key="leaf_type" value="needleleaved" />
-         </chunk>
-         <chunk id="Pinus_mugo" >
-            <key key="genus" value="Pinus" />
-            <key key="species" value="Pinus mugo" />
-            <key key="leaf_cycle" value="evergreen" />
-            <key key="leaf_type" value="needleleaved" />
-         </chunk>
-         <chunk id="Pinus_nigra" >
-            <key key="genus" value="Pinus" />
-            <key key="species" value="Pinus nigra" />
-            <key key="leaf_cycle" value="evergreen" />
-            <key key="leaf_type" value="needleleaved" />
-         </chunk>
-         <chunk id="Pinus_strobus" >
-            <key key="genus" value="Pinus" />
-            <key key="species" value="Pinus strobus" />
-            <key key="leaf_cycle" value="evergreen" />
-            <key key="leaf_type" value="needleleaved" />
-         </chunk>
-         <chunk id="Pinus_cembra" >
-            <key key="genus" value="Pinus" />
-            <key key="species" value="Pinus cembra" />
-            <key key="leaf_cycle" value="evergreen" />
-            <key key="leaf_type" value="needleleaved" />
-         </chunk>
+        <chunk id="Pinus" >
+           <key key="genus" value="Pinus" />
+           <text key="species" text="Species" />
+           <key key="leaf_cycle" value="evergreen" />
+           <key key="leaf_type" value="needleleaved" />
+        </chunk>
+        <chunk id="Pinus_sylvestris" >
+           <key key="genus" value="Pinus" />
+           <key key="species" value="Pinus sylvestris" />
+           <key key="leaf_cycle" value="evergreen" />
+           <key key="leaf_type" value="needleleaved" />
+        </chunk>
+        <chunk id="Pinus_mugo" >
+           <key key="genus" value="Pinus" />
+           <key key="species" value="Pinus mugo" />
+           <key key="leaf_cycle" value="evergreen" />
+           <key key="leaf_type" value="needleleaved" />
+        </chunk>
+        <chunk id="Pinus_nigra" >
+           <key key="genus" value="Pinus" />
+           <key key="species" value="Pinus nigra" />
+           <key key="leaf_cycle" value="evergreen" />
+           <key key="leaf_type" value="needleleaved" />
+        </chunk>
+        <chunk id="Pinus_strobus" >
+           <key key="genus" value="Pinus" />
+           <key key="species" value="Pinus strobus" />
+           <key key="leaf_cycle" value="evergreen" />
+           <key key="leaf_type" value="needleleaved" />
+        </chunk>
+        <chunk id="Pinus_cembra" >
+           <key key="genus" value="Pinus" />
+           <key key="species" value="Pinus cembra" />
+           <key key="leaf_cycle" value="evergreen" />
+           <key key="leaf_type" value="needleleaved" />
+        </chunk>
     <!-- Pinus -->
 
     <!-- Tsuga -->
@@ -453,12 +453,6 @@
            <key key="leaf_cycle" value="deciduous" />
            <key key="leaf_type" value="broadleaved" />
         </chunk>
-        <chunk id="Crataegus_laevigata_Pauls_Scarlet" >
-           <key key="genus" value="Crataegus" />
-           <key key="species" value="Crataegus laevigata Paul’s Scarlet" />
-           <key key="leaf_cycle" value="deciduous" />
-           <key key="leaf_type" value="broadleaved" />
-        </chunk>
     <!-- Crataegus -->
 
     <!-- Corylus -->
@@ -699,6 +693,30 @@
         <chunk id="Salix_caprea" >
            <key key="genus" value="Salix" />
            <key key="species" value="Salix caprea" />
+           <key key="leaf_cycle" value="deciduous" />
+           <key key="leaf_type" value="broadleaved" />
+        </chunk>
+        <chunk id="Salix_viminalis" >
+           <key key="genus" value="Salix" />
+           <key key="species" value="Salix viminalis" />
+           <key key="leaf_cycle" value="deciduous" />
+           <key key="leaf_type" value="broadleaved" />
+        </chunk>
+        <chunk id="Salix_fragilis" >
+           <key key="genus" value="Salix" />
+           <key key="species" value="Salix fragilis" />
+           <key key="leaf_cycle" value="deciduous" />
+           <key key="leaf_type" value="broadleaved" />
+        </chunk>
+        <chunk id="Salix_pentandra" >
+           <key key="genus" value="Salix" />
+           <key key="species" value="Salix pentandra" />
+           <key key="leaf_cycle" value="deciduous" />
+           <key key="leaf_type" value="broadleaved" />
+        </chunk>
+        <chunk id="Salix_nigra" >
+           <key key="genus" value="Salix" />
+           <key key="species" value="Salix nigra" />
            <key key="leaf_cycle" value="deciduous" />
            <key key="leaf_type" value="broadleaved" />
         </chunk>
@@ -991,711 +1009,727 @@
     <group name="Trees" icon="" >
 
         <item name="Tree" icon="" type="node" preset_name_label="true" >
-           <reference ref="tree-keys" />
-           <reference ref="tree-leaf_type" />
-           <reference ref="tree-leaf_cycle" />
-           <text key="genus" text="Genus" />
-           <text key="species" text="Species" />
-           <text key="taxon" text="Taxon" />
+            <reference ref="tree-keys" />
+            <reference ref="tree-leaf_type" />
+            <reference ref="tree-leaf_cycle" />
+            <text key="genus" text="Genus" />
+            <text key="species" text="Species" />
+            <text key="taxon" text="Taxon" />
         </item>
 
         <group name="Coniferales" icon="" >
             <item name="Coniferales n.sp." type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="tree-leaf_cycle" />
-               <key key="leaf_type" value="needleleaved" />
-               <text key="genus" text="Genus" />
-               <text key="species" text="Species" />
+                <reference ref="tree-keys" />
+                <reference ref="tree-leaf_cycle" />
+                <key key="leaf_type" value="needleleaved" />
+                <text key="genus" text="Genus" />
+                <text key="species" text="Species" />
             </item>
 
             <group name="Pinus" >
                 <item name="Pinus n.sp." type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Pinus" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Pinus" />
                 </item>
 
                 <item name="Pinus sylvestris" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Pinus_sylvestris" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Pinus_sylvestris" />
                 </item>
                 <item name="Pinus mugo" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Pinus_mugo" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Pinus_mugo" />
                 </item>
                 <item name="Pinus nigra" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Pinus_nigra" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Pinus_nigra" />
                 </item>
                 <item name="Pinus strobus" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Pinus_strobus" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Pinus_strobus" />
                 </item>
                 <item name="Pinus cembra" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Pinus_cembra" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Pinus_cembra" />
                 </item>
             </group> <!-- Pinus -->
 
             <group name="Tsuga" >
                 <item name="Tsuga n.sp." type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Tsuga" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Tsuga" />
                 </item>
 
                 <item name="Tsuga canadensis" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Tsuga_canadensis" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Tsuga_canadensis" />
                 </item>
                 <item name="Tsuga heterophylla" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Tsuga_heterophylla" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Tsuga_heterophylla" />
                 </item>
             </group> <!-- Tsuga -->
 
             <group name="Sequoioideae" >
                 <item name="Sequoia sempervirens" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Sequoia_sempervirens" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Sequoia_sempervirens" />
                 </item>
                 <item name="Metasequoia glyptostroboides" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Metasequoia_glyptostroboides" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Metasequoia_glyptostroboides" />
                 </item>
                 <item name="Sequoiadendron giganteum" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Sequoiadendron_giganteum" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Sequoiadendron_giganteum" />
                 </item>
             </group> <!-- Sequoioideae -->
 
             <group name="Cedrus" >
                 <item name="Cedrus n.sp." type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Cedrus" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Cedrus" />
                 </item>
 
                 <item name="Cedrus atlantica" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Cedrus_atlantica" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Cedrus_atlantica" />
                 </item>
                 <item name="Cedrus deodara" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Cedrus_deodara" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Cedrus_deodara" />
                 </item>
                 <item name="Cedrus libani" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Cedrus_libani" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Cedrus_libani" />
                 </item>
             </group> <!-- Cedrus -->
 
             <group name="Abies" >
                 <item name="Abies n.sp." type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Abies" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Abies" />
                 </item>
 
                 <item name="Abies alba" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Abies_alba" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Abies_alba" />
                 </item>
                 <item name="Abies nordmanniana" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Abies_nordmanniana" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Abies_nordmanniana" />
                 </item>
                 <item name="Abies procera" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Abies_procera" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Abies_procera" />
                 </item>
                 <item name="Abies concolor" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Abies_concolor" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Abies_concolor" />
                 </item>
             </group> <!-- Abies -->
 
             <group name="Picea" >
                 <item name="Picea n.sp." type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Picea" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Picea" />
                 </item>
 
                 <item name="Picea abies" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Picea_abies" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Picea_abies" />
                 </item>
                 <item name="Picea pungens" type="node" >
-                   <reference ref="tree-keys" />
-                   <reference ref="Picea_pungens" />
+                    <reference ref="tree-keys" />
+                    <reference ref="Picea_pungens" />
                 </item>
             </group> <!-- Picea -->
 
             <item name="Pseudotsuga menziesii" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Pseudotsuga_menziesii" />
+                <reference ref="tree-keys" />
+                <reference ref="Pseudotsuga_menziesii" />
             </item>
             <item name="Taxus baccata" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Taxus_baccata" />
+                <reference ref="tree-keys" />
+                <reference ref="Taxus_baccata" />
             </item>
             <item name="Larix decidua" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Larix_decidua" />
+                <reference ref="tree-keys" />
+                <reference ref="Larix_decidua" />
             </item>
             <item name="Juniperus communis" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Juniperus_communis" />
+                <reference ref="tree-keys" />
+                <reference ref="Juniperus_communis" />
             </item>
 
         </group> <!-- Coniferales -->
 
         <group name="Broad-leaved trees" icon="" >
             <item name="Broad-leaved tree n.sp." type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="tree-leaf_cycle" />
-               <key key="leaf_type" value="broadleaved" />
-                 <text key="genus" text="Genus" />
-                 <text key="species" text="Species" />
+                <reference ref="tree-keys" />
+                <reference ref="tree-leaf_cycle" />
+                <key key="leaf_type" value="broadleaved" />
+                    <text key="genus" text="Genus" />
+                    <text key="species" text="Species" />
             </item>
 
             <group name="Acer" >
-               <item name="Acer n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Acer" />
-               </item>
+                <item name="Acer n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Acer" />
+                </item>
 
-               <item name="Acer pseudoplatanus" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Acer_pseudoplatanus" />
-               </item>
-               <item name="Acer buergerianum" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Acer_buergerianum" />
-               </item>
-               <item name="Acer negundo" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Acer_negundo" />
-               </item>
-               <item name="Acer campestre" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Acer_campestre" />
-               </item>
-               <item name="Acer monspessulanum" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Acer_monspessulanum" />
-               </item>
-               <item name="Acer opalus" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Acer_opalus" />
-               </item>
-               <item name="Acer platanoides" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Acer_platanoides" />
-               </item>
-               <item name="Acer saccharinum" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Acer_saccharinum" />
-               </item>
+                <item name="Acer pseudoplatanus" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Acer_pseudoplatanus" />
+                </item>
+                <item name="Acer buergerianum" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Acer_buergerianum" />
+                </item>
+                <item name="Acer negundo" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Acer_negundo" />
+                </item>
+                <item name="Acer campestre" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Acer_campestre" />
+                </item>
+                <item name="Acer monspessulanum" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Acer_monspessulanum" />
+                </item>
+                <item name="Acer opalus" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Acer_opalus" />
+                </item>
+                <item name="Acer platanoides" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Acer_platanoides" />
+                </item>
+                <item name="Acer saccharinum" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Acer_saccharinum" />
+                </item>
             </group> <!-- Acer -->
 
             <group name="Aesculus" >
-               <item name="Aesculus n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Aesculus" />
-               </item>
+                <item name="Aesculus n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Aesculus" />
+                </item>
 
-               <item name="Aesculus hippocastanum" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Aesculus_hippocastanum" />
-               </item>
-               <item name="Aesculus × carnea" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Aesculus_x_carnea" />
-               </item>
+                <item name="Aesculus hippocastanum" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Aesculus_hippocastanum" />
+                </item>
+                <item name="Aesculus × carnea" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Aesculus_x_carnea" />
+                </item>
             </group> <!-- Aesculus -->
 
             <group name="Alnus" >
-               <item name="Alnus n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Alnus" />
-               </item>
+                <item name="Alnus n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Alnus" />
+                </item>
 
-               <item name="Alnus glutinosa" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Alnus_glutinosa" />
-               </item>
-               <item name="Alnus incana" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Alnus_incana" />
-               </item>
-               <item name="Alnus alnobetula" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Alnus_alnobetula" />
-               </item>
-               <item name="Alnus cordata" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Alnus_cordata" />
-               </item>
+                <item name="Alnus glutinosa" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Alnus_glutinosa" />
+                </item>
+                <item name="Alnus incana" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Alnus_incana" />
+                </item>
+                <item name="Alnus alnobetula" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Alnus_alnobetula" />
+                </item>
+                <item name="Alnus cordata" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Alnus_cordata" />
+                </item>
             </group> <!-- Alnus -->
 
             <group name="Betula" >
-               <item name="Betula n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Betula" />
-               </item>
+                <item name="Betula n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Betula" />
+                </item>
 
-               <item name="Betula pendula" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Betula_pendula" />
-               </item>
-               <item name="Betula pubescens" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Betula_pubescens" />
-               </item>
-               <item name="Betula utilis" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Betula_utilis" />
-               </item>
-               <item name="Betula papyrifera" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Betula_papyrifera" />
-               </item>
+                <item name="Betula pendula" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Betula_pendula" />
+                </item>
+                <item name="Betula pubescens" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Betula_pubescens" />
+                </item>
+                <item name="Betula utilis" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Betula_utilis" />
+                </item>
+                <item name="Betula papyrifera" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Betula_papyrifera" />
+                </item>
             </group> <!-- Betula -->
 
             <group name="Castanea" >
-               <item name="Castanea n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Castanea" />
-               </item>
+                <item name="Castanea n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Castanea" />
+                </item>
 
-               <item name="Castanea sativa" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Castanea_sativa" />
-               </item>
+                <item name="Castanea sativa" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Castanea_sativa" />
+                </item>
             </group> <!-- Castanea -->
 
             <group name="Fagus" >
-               <item name="Fagus sylvatica" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Fagus_sylvatica" />
-               </item>
-               <item name="Fagus sylvatica Purpurea" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Fagus_sylvatica_Purpurea" />
-               </item>
-               <item name="Fagus sylvatica Pendula" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Fagus_sylvatica_Pendula" />
-               </item>
+                <item name="Fagus sylvatica" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Fagus_sylvatica" />
+                </item>
+                <item name="Fagus sylvatica Purpurea" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Fagus_sylvatica_Purpurea" />
+                </item>
+                <item name="Fagus sylvatica Pendula" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Fagus_sylvatica_Pendula" />
+                </item>
             </group> <!-- Fagus -->
 
             <group name="Fraxinus" >
-               <item name="Fraxinus n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Fraxinus" />
-               </item>
+                <item name="Fraxinus n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Fraxinus" />
+                </item>
 
-               <item name="Fraxinus excelsior" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Fraxinus_excelsior" />
-               </item>
-               <item name="Fraxinus ornus" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Fraxinus_ornus" />
-               </item>
+                <item name="Fraxinus excelsior" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Fraxinus_excelsior" />
+                </item>
+                <item name="Fraxinus ornus" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Fraxinus_ornus" />
+                </item>
             </group> <!-- Fraxinus -->
 
             <group name="Tilia" >
-               <item name="Tilia n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Tilia" />
-               </item>
+                <item name="Tilia n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Tilia" />
+                </item>
 
-               <item name="Tilia cordata" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Tilia_cordata" />
-               </item>
-               <item name="Tilia platyphyllos" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Tilia_platyphyllos" />
-               </item>
-               <item name="Tilia americana" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Tilia_americana" />
-               </item>
-               <item name="Tilia × europaea" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Tilia_x_europaea" />
-               </item>
-               <item name="Tilia × euchlora" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Tilia_x_euchlora" />
-               </item>
+                <item name="Tilia cordata" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Tilia_cordata" />
+                </item>
+                <item name="Tilia platyphyllos" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Tilia_platyphyllos" />
+                </item>
+                <item name="Tilia americana" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Tilia_americana" />
+                </item>
+                <item name="Tilia × europaea" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Tilia_x_europaea" />
+                </item>
+                <item name="Tilia × euchlora" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Tilia_x_euchlora" />
+                </item>
             </group> <!-- Tilia -->
 
             <group name="Quercus" >
-               <item name="Quercus n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Quercus" />
-               </item>
+                <item name="Quercus n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Quercus" />
+                </item>
 
-               <item name="Quercus robur" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Quercus_robur" />
-               </item>
-               <item name="Quercus petraea" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Quercus_petraea" />
-               </item>
-               <item name="Quercus rubra" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Quercus_rubra" />
-               </item>
-               <item name="Quercus pubescens" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Quercus_pubescens" />
-               </item>
-               <item name="Quercus ilex" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Quercus_ilex" />
-               </item>
-               <item name="Quercus suber" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Quercus_suber" />
-               </item>
-               <item name="Quercus cerris" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Quercus_cerris" />
-               </item>
+                <item name="Quercus robur" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Quercus_robur" />
+                </item>
+                <item name="Quercus petraea" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Quercus_petraea" />
+                </item>
+                <item name="Quercus rubra" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Quercus_rubra" />
+                </item>
+                <item name="Quercus pubescens" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Quercus_pubescens" />
+                </item>
+                <item name="Quercus ilex" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Quercus_ilex" />
+                </item>
+                <item name="Quercus suber" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Quercus_suber" />
+                </item>
+                <item name="Quercus cerris" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Quercus_cerris" />
+                </item>
             </group> <!-- Quercus -->
 
             <group name="Populus" >
-               <item name="Populus n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Populus" />
-               </item>
+                <item name="Populus n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Populus" />
+                </item>
 
-               <item name="Populus tremula" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Populus_tremula" />
-               </item>
-               <item name="Populus nigra" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Populus_nigra" />
-               </item>
-               <item name="Populus alba" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Populus_alba" />
-               </item>
-               <item name="Populus × canadensis" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Populus_x_canadensis" />
-               </item>
+                <item name="Populus tremula" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Populus_tremula" />
+                </item>
+                <item name="Populus nigra" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Populus_nigra" />
+                </item>
+                <item name="Populus alba" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Populus_alba" />
+                </item>
+                <item name="Populus × canadensis" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Populus_x_canadensis" />
+                </item>
             </group> <!-- Populus -->
 
             <group name="Platanus" >
-               <item name="Platanus n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Platanus" />
-               </item>
+                <item name="Platanus n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Platanus" />
+                </item>
 
-               <item name="Platanus × hispanica" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Platanus_x_hispanica" />
-               </item>
-               <item name="Platanus orientalis" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Platanus_orientalis" />
-               </item>
+                <item name="Platanus × hispanica" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Platanus_x_hispanica" />
+                </item>
+                <item name="Platanus orientalis" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Platanus_orientalis" />
+                </item>
             </group> <!-- Platanus -->
 
             <group name="Salix" >
-               <item name="Salix n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Salix" />
-               </item>
+                <item name="Salix n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Salix" />
+                </item>
 
-               <item name="Salix alba" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Salix_alba" />
-               </item>
-               <item name="Salix alba Tristis" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Salix_alba_Tristis" />
-               </item>
-               <item name="Salix caprea" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Salix_caprea" />
-               </item>
+                <item name="Salix alba" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Salix_alba" />
+                </item>
+                <item name="Salix alba Tristis" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Salix_alba_Tristis" />
+                </item>
+                <item name="Salix caprea" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Salix_caprea" />
+                </item>
+                <item name="Salix viminalis" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Salix_viminalis" />
+                </item>
+                <item name="Salix fragilis" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Salix_fragilis" />
+                </item>
+                <item name="Salix pentandra" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Salix_pentandra" />
+                </item>
+                <item name="Salix nigra" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Salix_nigra" />
+                </item>
             </group> <!-- Salix -->
 
             <group name="Sorbus" >
-               <item name="Sorbus aucuparia" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Sorbus_aucuparia" />
-               </item>
-               <item name="Sorbus americana" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Sorbus_americana" />
-               </item>
-               <item name="Sorbus domestica" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Sorbus_domestica" />
-               </item>
-               <item name="Sorbus aria" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Sorbus_aria" />
-               </item>
-               <item name="Sorbus intermedia" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Sorbus_intermedia" />
-               </item>
-               <item name="Sorbus torminalis" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Sorbus_torminalis" />
-               </item>
+                <item name="Sorbus aucuparia" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Sorbus_aucuparia" />
+                </item>
+                <item name="Sorbus americana" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Sorbus_americana" />
+                </item>
+                <item name="Sorbus domestica" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Sorbus_domestica" />
+                </item>
+                <item name="Sorbus aria" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Sorbus_aria" />
+                </item>
+                <item name="Sorbus intermedia" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Sorbus_intermedia" />
+                </item>
+                <item name="Sorbus torminalis" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Sorbus_torminalis" />
+                </item>
             </group> <!-- Sorbus -->
 
             <group name="Ulmus" >
-               <item name="Ulmus n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Ulmus" />
-               </item>
+                <item name="Ulmus n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Ulmus" />
+                </item>
 
-               <item name="Ulmus glabra" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Ulmus_glabra" />
-               </item>
-               <item name="Ulmus laevis" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Ulmus_laevis" />
-               </item>
+                <item name="Ulmus glabra" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Ulmus_glabra" />
+                </item>
+                <item name="Ulmus laevis" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Ulmus_laevis" />
+                </item>
             </group> <!-- Ulmus -->
 
             <group name="Fruit trees" >
-               <item name="Malus n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Malus" />
-               </item>
-               <item name="Malus domestica" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Malus_domestica" />
-               </item>
-               <item name="Malus sylvestris" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Malus_sylvestris" />
-               </item>
-               <item name="Pyrus communis" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Pyrus_communis" />
-               </item>
-               <item name="Pyrus pyraster" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Pyrus_pyraster" />
-               </item>
-               <item name="Prunus domestica" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Prunus_domestica" />
-               </item>
-               <item name="Prunus domestica syriaca" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Prunus_domestica_syriaca" />
-               </item>
-               <item name="Prunus armeniaca" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Prunus_armeniaca" />
-               </item>
-               <item name="Prunus avium" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Prunus_avium" />
-               </item>
-               <item name="Prunus cerasus" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Prunus_cerasus" />
-               </item>
-               <item name="Prunus padus" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Prunus_padus" />
-               </item>
-               <item name="Cydonia oblonga" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Cydonia_oblonga" />
-               </item>
-               <item name="Olea europaea" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Olea_europaea" />
-               </item>
-               <item name="Prunus serrulata" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Prunus_serrulata" />
-               </item>
+                <item name="Malus n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Malus" />
+                </item>
+                <item name="Malus domestica" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Malus_domestica" />
+                </item>
+                <item name="Malus sylvestris" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Malus_sylvestris" />
+                </item>
+                <item name="Pyrus communis" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Pyrus_communis" />
+                </item>
+                <item name="Pyrus pyraster" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Pyrus_pyraster" />
+                </item>
+                <item name="Prunus domestica" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Prunus_domestica" />
+                </item>
+                <item name="Prunus domestica syriaca" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Prunus_domestica_syriaca" />
+                </item>
+                <item name="Prunus armeniaca" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Prunus_armeniaca" />
+                </item>
+                <item name="Prunus avium" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Prunus_avium" />
+                </item>
+                <item name="Prunus cerasus" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Prunus_cerasus" />
+                </item>
+                <item name="Prunus padus" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Prunus_padus" />
+                </item>
+                <item name="Cydonia oblonga" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Cydonia_oblonga" />
+                </item>
+                <item name="Olea europaea" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Olea_europaea" />
+                </item>
+                <item name="Prunus serrulata" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Prunus_serrulata" />
+                </item>
             </group> <!-- Fruit trees -->
 
             <group name="Magnolia" >
-               <item name="Magnolia n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Magnolia" />
-               </item>
+                <item name="Magnolia n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Magnolia" />
+                </item>
 
-               <item name="Magnolia fraseri" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Magnolia_fraseri" />
-               </item>
-               <item name="Magnolia grandiflora" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Magnolia_grandiflora" />
-               </item>
-               <item name="Magnolia × soulangeana" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Magnolia_x_soulangeana" />
-               </item>
+                <item name="Magnolia fraseri" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Magnolia_fraseri" />
+                </item>
+                <item name="Magnolia grandiflora" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Magnolia_grandiflora" />
+                </item>
+                <item name="Magnolia × soulangeana" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Magnolia_x_soulangeana" />
+                </item>
             </group> <!-- Magnolia -->
 
             <group name="Juglans" >
-               <item name="Juglans nigra" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Juglans_nigra" />
-               </item>
-               <item name="Juglans regia" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Juglans_regia" />
-               </item>
+                <item name="Juglans nigra" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Juglans_nigra" />
+                </item>
+                <item name="Juglans regia" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Juglans_regia" />
+                </item>
             </group> <!-- Juglans -->
 
             <group name="Corylus" >
-               <item name="Corylus avellana" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Corylus_avellana" />
-               </item>
-               <item name="Corylus colurna" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Corylus_colurna" />
-               </item>
+                <item name="Corylus avellana" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Corylus_avellana" />
+                </item>
+                <item name="Corylus colurna" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Corylus_colurna" />
+                </item>
             </group> <!-- Corylus -->
 
             <group name="Crataegus" >
-               <item name="Crataegus n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Crataegus" />
-               </item>
+                <item name="Crataegus n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Crataegus" />
+                </item>
 
-               <item name="Crataegus x lavallei" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Crataegus_x_lavallei" />
-               </item>
-               <item name="Crataegus monogyna" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Crataegus_monogyna" />
-               </item>
-               <item name="Crataegus rhipidophylla" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Crataegus_rhipidophylla" />
-               </item>
-               <item name="Crataegus crus-galli" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Crataegus_crus-galli" />
-               </item>
-               <item name="Crataegus laevigata" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Crataegus_laevigata" />
-               </item>
-               <item name="Crataegus laevigata Paul’s Scarlet" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Crataegus_laevigata_Pauls_Scarlet" />
-               </item>
+                <item name="Crataegus x lavallei" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Crataegus_x_lavallei" />
+                </item>
+                <item name="Crataegus monogyna" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Crataegus_monogyna" />
+                </item>
+                <item name="Crataegus rhipidophylla" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Crataegus_rhipidophylla" />
+                </item>
+                <item name="Crataegus crus-galli" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Crataegus_crus-galli" />
+                </item>
+                <item name="Crataegus laevigata" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Crataegus_laevigata" />
+                </item>
+                <item name="Crataegus laevigata Paul’s Scarlet" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Crataegus_laevigata_Pauls_Scarlet" />
+                </item>
             </group> <!-- Crataegus -->
 
             <group name="Celtis" >
-               <item name="Celtis n.sp." type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Celtis" />
-               </item>
+                <item name="Celtis n.sp." type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Celtis" />
+                </item>
 
-               <item name="Celtis occidentalis" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Celtis_occidentalis" />
-               </item>
-               <item name="Celtis australis" type="node" >
-                  <reference ref="tree-keys" />
-                  <reference ref="Celtis_australis" />
-               </item>
+                <item name="Celtis occidentalis" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Celtis_occidentalis" />
+                </item>
+                <item name="Celtis australis" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Celtis_australis" />
+                </item>
             </group> <!-- Celtis -->
 
             <item name="Liquidambar styraciflua" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Liquidambar_styraciflua" />
+                <reference ref="tree-keys" />
+                <reference ref="Liquidambar_styraciflua" />
             </item>
 
             <item name="Koelreuteria paniculata" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Koelreuteria_paniculata" />
+                <reference ref="tree-keys" />
+                <reference ref="Koelreuteria_paniculata" />
             </item>
 
             <item name="Catalpa bignonioides" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Catalpa_bignonioides" />
+                <reference ref="tree-keys" />
+                <reference ref="Catalpa_bignonioides" />
             </item>
 
             <item name="Liriodendron tulipifera" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Liriodendron_tulipifera" />
+                <reference ref="tree-keys" />
+                <reference ref="Liriodendron_tulipifera" />
             </item>
 
             <item name="Robinia pseudoacacia" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Robinia_pseudoacacia" />
+                <reference ref="tree-keys" />
+                <reference ref="Robinia_pseudoacacia" />
             </item>
 
             <item name="Sambucus nigra" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Sambucus_nigra" />
+                <reference ref="tree-keys" />
+                <reference ref="Sambucus_nigra" />
             </item>
 
             <item name="Ginkgo biloba" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Ginkgo_biloba" />
+                <reference ref="tree-keys" />
+                <reference ref="Ginkgo_biloba" />
             </item>
 
             <item name="Gleditsia triacanthos" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Gleditsia_triacanthos" />
+                <reference ref="tree-keys" />
+                <reference ref="Gleditsia_triacanthos" />
             </item>
 
             <item name="Ailanthus altissima" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Ailanthus_altissima" />
+                <reference ref="tree-keys" />
+                <reference ref="Ailanthus_altissima" />
             </item>
 
             <item name="Cercis siliquastrum" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Cercis_siliquastrum" />
+                <reference ref="tree-keys" />
+                <reference ref="Cercis_siliquastrum" />
             </item>
 
             <item name="Carpinus betulus" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Carpinus_betulus" />
+                <reference ref="tree-keys" />
+                <reference ref="Carpinus_betulus" />
             </item>
 
             <item name="Ostrya carpinifolia" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Ostrya_carpinifolia" />
+                <reference ref="tree-keys" />
+                <reference ref="Ostrya_carpinifolia" />
             </item>
 
             <item name="Pterocarya fraxinifolia" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Pterocarya_fraxinifolia" />
+                <reference ref="tree-keys" />
+                <reference ref="Pterocarya_fraxinifolia" />
             </item>
 
             <item name="Styphnolobium japonicum" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Styphnolobium_japonicum" />
+                <reference ref="tree-keys" />
+                <reference ref="Styphnolobium_japonicum" />
             </item>
 
             <item name="Ilex aquifolium" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Ilex_aquifolium" />
+                <reference ref="tree-keys" />
+                <reference ref="Ilex_aquifolium" />
             </item>
 
             <item name="Parrotia persica" type="node" >
-               <reference ref="tree-keys" />
-               <reference ref="Parrotia_persica" />
+                <reference ref="tree-keys" />
+                <reference ref="Parrotia_persica" />
             </item>
 
         </group> <!-- Broad-leaved trees -->
@@ -1705,159 +1739,159 @@
     <group name="Tree rows" icon="" >
 
         <item name="Tree row" icon="" type="way" preset_name_label="true" >
-           <reference ref="tree-row-keys" />
-           <reference ref="tree-leaf_type" />
-           <reference ref="tree-leaf_cycle" />
-           <text key="genus" text="Genus" />
-           <text key="species" text="Species" />
-           <text key="taxon" text="Taxon" />
+            <reference ref="tree-row-keys" />
+            <reference ref="tree-leaf_type" />
+            <reference ref="tree-leaf_cycle" />
+            <text key="genus" text="Genus" />
+            <text key="species" text="Species" />
+            <text key="taxon" text="Taxon" />
         </item>
 
         <group name="Coniferales" icon="" >
-           <item name="Coniferales n.sp." type="way" >
-              <reference ref="tree-row-keys" />
-              <reference ref="tree-leaf_cycle" />
-              <key key="leaf_type" value="needleleaved" />
-              <text key="genus" text="Genus" />
-              <text key="species" text="Species" />
-           </item>
-
-         <group name="Abies" >
-            <item name="Abies n.sp." type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Abies" />
+            <item name="Coniferales n.sp." type="way" >
+                <reference ref="tree-row-keys" />
+                <reference ref="tree-leaf_cycle" />
+                <key key="leaf_type" value="needleleaved" />
+                <text key="genus" text="Genus" />
+                <text key="species" text="Species" />
             </item>
 
-            <item name="Abies alba" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Abies_alba" />
-            </item>
-            <item name="Abies nordmanniana" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Abies_nordmanniana" />
-            </item>
-            <item name="Abies procera" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Abies_procera" />
-            </item>
-            <item name="Abies concolor" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Abies_concolor" />
-            </item>
-         </group> <!-- Abies -->
-
-         <group name="Cedrus" >
-            <item name="Cedrus n.sp." type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Cedrus" />
-            </item>
-
-            <item name="Cedrus atlantica" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Cedrus_atlantica" />
-            </item>
-            <item name="Cedrus deodara" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Cedrus_deodara" />
-            </item>
-                <item name="Cedrus libani" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Cedrus_libani" />
+            <group name="Abies" >
+                <item name="Abies n.sp." type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Abies" />
                 </item>
-         </group> <!-- Cedrus -->
 
-         <group name="Picea" >
-            <item name="Picea n.sp." type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Picea" />
-            </item>
+                <item name="Abies alba" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Abies_alba" />
+                </item>
+                <item name="Abies nordmanniana" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Abies_nordmanniana" />
+                </item>
+                <item name="Abies procera" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Abies_procera" />
+                </item>
+                <item name="Abies concolor" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Abies_concolor" />
+                </item>
+            </group> <!-- Abies -->
 
-            <item name="Picea abies" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Picea_abies" />
-            </item>
-            <item name="Picea pungens" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Picea_pungens" />
-            </item>
-         </group> <!-- Picea -->
+            <group name="Cedrus" >
+                <item name="Cedrus n.sp." type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Cedrus" />
+                </item>
 
-         <group name="Pinus" >
-            <item name="Pinus n.sp." type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Pinus" />
-            </item>
+                <item name="Cedrus atlantica" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Cedrus_atlantica" />
+                </item>
+                <item name="Cedrus deodara" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Cedrus_deodara" />
+                </item>
+                    <item name="Cedrus libani" type="way" >
+                        <reference ref="tree-row-keys" />
+                        <reference ref="Cedrus_libani" />
+                    </item>
+            </group> <!-- Cedrus -->
 
-            <item name="Pinus sylvestris" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Pinus_sylvestris" />
-            </item>
-            <item name="Pinus mugo" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Pinus_mugo" />
-            </item>
-            <item name="Pinus nigra" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Pinus_nigra" />
-            </item>
-            <item name="Pinus strobus" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Pinus_strobus" />
-            </item>
-            <item name="Pinus cembra" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Pinus_cembra" />
-            </item>
-         </group> <!-- Pinus -->
+            <group name="Picea" >
+                <item name="Picea n.sp." type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Picea" />
+                </item>
 
-         <group name="Sequoioideae" >
-            <item name="Sequoia sempervirens" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Sequoia_sempervirens" />
-            </item>
-            <item name="Metasequoia glyptostroboides" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Metasequoia_glyptostroboides" />
-            </item>
-            <item name="Sequoiadendron giganteum" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Sequoiadendron_giganteum" />
-            </item>
-         </group> <!-- Sequoioideae -->
+                <item name="Picea abies" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Picea_abies" />
+                </item>
+                <item name="Picea pungens" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Picea_pungens" />
+                </item>
+            </group> <!-- Picea -->
 
-         <group name="Tsuga" >
-            <item name="Tsuga n.sp." type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Tsuga" />
-            </item>
+            <group name="Pinus" >
+                <item name="Pinus n.sp." type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Pinus" />
+                </item>
 
-            <item name="Tsuga canadensis" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Tsuga_canadensis" />
-            </item>
-            <item name="Tsuga heterophylla" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Tsuga_heterophylla" />
-            </item>
-         </group> <!-- Tsuga -->
+                <item name="Pinus sylvestris" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Pinus_sylvestris" />
+                </item>
+                <item name="Pinus mugo" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Pinus_mugo" />
+                </item>
+                <item name="Pinus nigra" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Pinus_nigra" />
+                </item>
+                <item name="Pinus strobus" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Pinus_strobus" />
+                </item>
+                <item name="Pinus cembra" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Pinus_cembra" />
+                </item>
+            </group> <!-- Pinus -->
 
-         <item name="Pseudotsuga menziesii" type="way" >
-            <reference ref="tree-row-keys" />
-            <reference ref="Pseudotsuga_menziesii" />
-         </item>
-         <item name="Taxus baccata" type="way" >
-            <reference ref="tree-row-keys" />
-            <reference ref="Taxus_baccata" />
-         </item>
-         <item name="Larix decidua" type="way" >
-            <reference ref="tree-row-keys" />
-            <reference ref="Larix_decidua" />
-         </item>
-         <item name="Juniperus communis" type="way" >
-            <reference ref="tree-row-keys" />
-            <reference ref="Juniperus_communis" />
-         </item>
-      </group> <!-- Coniferales -->
+            <group name="Sequoioideae" >
+                <item name="Sequoia sempervirens" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Sequoia_sempervirens" />
+                </item>
+                <item name="Metasequoia glyptostroboides" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Metasequoia_glyptostroboides" />
+                </item>
+                <item name="Sequoiadendron giganteum" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Sequoiadendron_giganteum" />
+                </item>
+            </group> <!-- Sequoioideae -->
+
+            <group name="Tsuga" >
+                <item name="Tsuga n.sp." type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Tsuga" />
+                </item>
+
+                <item name="Tsuga canadensis" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Tsuga_canadensis" />
+                </item>
+                <item name="Tsuga heterophylla" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Tsuga_heterophylla" />
+                </item>
+            </group> <!-- Tsuga -->
+
+            <item name="Pseudotsuga menziesii" type="way" >
+               <reference ref="tree-row-keys" />
+               <reference ref="Pseudotsuga_menziesii" />
+            </item>
+            <item name="Taxus baccata" type="way" >
+               <reference ref="tree-row-keys" />
+               <reference ref="Taxus_baccata" />
+            </item>
+            <item name="Larix decidua" type="way" >
+               <reference ref="tree-row-keys" />
+               <reference ref="Larix_decidua" />
+            </item>
+            <item name="Juniperus communis" type="way" >
+               <reference ref="tree-row-keys" />
+               <reference ref="Juniperus_communis" />
+            </item>
+        </group> <!-- Coniferales -->
 
         <group name="Broad-leaved trees" icon="" >
             <item name="Broad-leaved tree n.sp." type="way" >
@@ -1870,545 +1904,557 @@
 
             <group name="Acer" >
                 <item name="Acer n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Acer" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Acer" />
                 </item>
 
                 <item name="Acer pseudoplatanus" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Acer_pseudoplatanus" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Acer_pseudoplatanus" />
                 </item>
                 <item name="Acer buergerianum" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Acer_buergerianum" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Acer_buergerianum" />
                 </item>
                 <item name="Acer negundo" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Acer_negundo" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Acer_negundo" />
                 </item>
                 <item name="Acer campestre" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Acer_campestre" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Acer_campestre" />
                 </item>
                 <item name="Acer monspessulanum" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Acer_monspessulanum" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Acer_monspessulanum" />
                 </item>
                 <item name="Acer opalus" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Acer_opalus" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Acer_opalus" />
                 </item>
                 <item name="Acer platanoides" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Acer_platanoides" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Acer_platanoides" />
                 </item>
                 <item name="Acer saccharinum" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Acer_saccharinum" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Acer_saccharinum" />
                 </item>
             </group> <!-- Acer -->
 
             <group name="Aesculus" >
                 <item name="Aesculus" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Aesculus" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Aesculus" />
                 </item>
 
                 <item name="Aesculus hippocastanum" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Aesculus_hippocastanum" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Aesculus_hippocastanum" />
                 </item>
                 <item name="Aesculus × carnea" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Aesculus_x_carnea" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Aesculus_x_carnea" />
                 </item>
             </group> <!-- Aesculus -->
 
             <group name="Alnus" >
                 <item name="Alnus n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Alnus" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Alnus" />
                 </item>
 
                 <item name="Alnus glutinosa" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Alnus_glutinosa" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Alnus_glutinosa" />
                 </item>
                 <item name="Alnus incana" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Alnus_incana" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Alnus_incana" />
                 </item>
                 <item name="Alnus alnobetula" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Alnus_alnobetula" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Alnus_alnobetula" />
                 </item>
                 <item name="Alnus cordata" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Alnus_cordata" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Alnus_cordata" />
                 </item>
             </group> <!-- Alnus -->
 
             <group name="Betula" >
                 <item name="Betula n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Betula" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Betula" />
                 </item>
 
                 <item name="Betula pendula" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Betula_pendula" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Betula_pendula" />
                 </item>
                 <item name="Betula pubescens" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Betula_pubescens" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Betula_pubescens" />
                 </item>
                 <item name="Betula utilis" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Betula_utilis" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Betula_utilis" />
                 </item>
                 <item name="Betula papyrifera" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Betula_papyrifera" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Betula_papyrifera" />
                 </item>
             </group> <!-- Betula -->
 
             <group name="Castanea" >
                 <item name="Castanea n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Castanea" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Castanea" />
                 </item>
 
                 <item name="Castanea sativa" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Castanea_sativa" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Castanea_sativa" />
                 </item>
             </group> <!-- Castanea -->
 
             <group name="Celtis" >
                 <item name="Celtis n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Celtis" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Celtis" />
                 </item>
 
                 <item name="Celtis occidentalis" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Celtis_occidentalis" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Celtis_occidentalis" />
                 </item>
                 <item name="Celtis australis" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Celtis_australis" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Celtis_australis" />
                 </item>
             </group> <!-- Celtis -->
 
             <group name="Corylus" >
                 <item name="Corylus avellana" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Corylus_avellana" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Corylus_avellana" />
                 </item>
                 <item name="Corylus colurna" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Corylus_colurna" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Corylus_colurna" />
                 </item>
             </group> <!-- Corylus -->
 
             <group name="Crataegus" >
                 <item name="Crataegus n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Crataegus" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Crataegus" />
                 </item>
 
                 <item name="Crataegus x lavallei" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Crataegus_x_lavallei" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Crataegus_x_lavallei" />
                 </item>
                 <item name="Crataegus monogyna" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Crataegus_monogyna" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Crataegus_monogyna" />
                 </item>
                 <item name="Crataegus rhipidophylla" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Crataegus_rhipidophylla" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Crataegus_rhipidophylla" />
                 </item>
                 <item name="Crataegus crus-galli" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Crataegus_crus-galli" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Crataegus_crus-galli" />
                 </item>
                 <item name="Crataegus laevigata" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Crataegus_laevigata" />
-                </item>
-                <item name="Crataegus laevigata Paul’s Scarlet" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Crataegus_laevigata_Pauls_Scarlet" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Crataegus_laevigata" />
                 </item>
             </group> <!-- Crataegus -->
 
             <group name="Fagus" >
                 <item name="Fagus sylvatica" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Fagus_sylvatica" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Fagus_sylvatica" />
                 </item>
                 <item name="Fagus sylvatica Purpurea" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Fagus_sylvatica_Purpurea" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Fagus_sylvatica_Purpurea" />
                 </item>
                 <item name="Fagus sylvatica Pendula" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Fagus_sylvatica_Pendula" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Fagus_sylvatica_Pendula" />
                 </item>
             </group> <!-- Fagus -->
 
             <group name="Fraxinus" >
                 <item name="Fraxinus n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Fraxinus" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Fraxinus" />
                 </item>
 
                 <item name="Fraxinus excelsior" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Fraxinus_excelsior" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Fraxinus_excelsior" />
                 </item>
                 <item name="Fraxinus ornus" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Fraxinus_ornus" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Fraxinus_ornus" />
                 </item>
             </group> <!-- Fraxinus -->
 
             <group name="Juglans" >
                 <item name="Juglans nigra" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Juglans_nigra" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Juglans_nigra" />
                 </item>
                 <item name="Juglans regia" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Juglans_regia" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Juglans_regia" />
                 </item>
             </group> <!-- Juglans -->
 
             <group name="Magnolia" >
                 <item name="Magnolia n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Magnolia" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Magnolia" />
                 </item>
 
                 <item name="Magnolia fraseri" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Magnolia_fraseri" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Magnolia_fraseri" />
                 </item>
                 <item name="Magnolia grandiflora" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Magnolia_grandiflora" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Magnolia_grandiflora" />
                 </item>
                 <item name="Magnolia × soulangeana" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Magnolia_x_soulangeana" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Magnolia_x_soulangeana" />
                 </item>
             </group> <!-- Magnolia -->
 
             <group name="Platanus" >
                 <item name="Platanus n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Platanus" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Platanus" />
                 </item>
 
                 <item name="Platanus × hispanica" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Platanus_x_hispanica" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Platanus_x_hispanica" />
                 </item>
                 <item name="Platanus orientalis" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Platanus_orientalis" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Platanus_orientalis" />
                 </item>
             </group> <!-- Platanus -->
 
             <group name="Populus" >
                 <item name="Populus n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Populus" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Populus" />
                 </item>
 
                 <item name="Populus tremula" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Populus_tremula" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Populus_tremula" />
                 </item>
                 <item name="Populus nigra" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Populus_nigra" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Populus_nigra" />
                 </item>
                 <item name="Populus alba" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Populus_alba" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Populus_alba" />
                 </item>
                 <item name="Populus × canadensis" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Populus_x_canadensis" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Populus_x_canadensis" />
                 </item>
             </group> <!-- Populus -->
 
             <group name="Quercus" >
                 <item name="Quercus n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Quercus" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Quercus" />
                 </item>
 
                 <item name="Quercus robur" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Quercus_robur" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Quercus_robur" />
                 </item>
                 <item name="Quercus petraea" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Quercus_petraea" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Quercus_petraea" />
                 </item>
                 <item name="Quercus rubra" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Quercus_rubra" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Quercus_rubra" />
                 </item>
                 <item name="Quercus pubescens" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Quercus_pubescens" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Quercus_pubescens" />
                 </item>
                 <item name="Quercus ilex" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Quercus_ilex" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Quercus_ilex" />
                 </item>
                 <item name="Quercus suber" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Quercus_suber" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Quercus_suber" />
                 </item>
                 <item name="Quercus cerris" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Quercus_cerris" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Quercus_cerris" />
                 </item>
             </group> <!-- Quercus -->
 
             <group name="Salix" >
                 <item name="Salix n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Salix" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Salix" />
                 </item>
 
                 <item name="Salix alba" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Salix_alba" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Salix_alba" />
                 </item>
                 <item name="Salix alba Tristis" type="way" >
                    <reference ref="tree-row-keys" />
                    <reference ref="Salix_alba_Tristis" />
                 </item>
                 <item name="Salix caprea" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Salix_caprea" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Salix_caprea" />
+                </item>
+                <item name="Salix viminalis" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Salix_viminalis" />
+                </item>
+                <item name="Salix fragilis" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Salix_fragilis" />
+                </item>
+                <item name="Salix pentandra" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Salix_pentandra" />
+                </item>
+                <item name="Salix nigra" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Salix_nigra" />
                 </item>
             </group> <!-- Salix -->
 
             <group name="Sorbus" >
                 <item name="Sorbus aucuparia" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Sorbus_aucuparia" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Sorbus_aucuparia" />
                 </item>
                 <item name="Sorbus americana" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Sorbus_americana" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Sorbus_americana" />
                 </item>
                 <item name="Sorbus domestica" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Sorbus_domestica" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Sorbus_domestica" />
                 </item>
                 <item name="Sorbus aria" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Sorbus_aria" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Sorbus_aria" />
                 </item>
                 <item name="Sorbus intermedia" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Sorbus_intermedia" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Sorbus_intermedia" />
                 </item>
                 <item name="Sorbus torminalis" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Sorbus_torminalis" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Sorbus_torminalis" />
                 </item>
             </group> <!-- Sorbus -->
 
             <group name="Tilia" >
                 <item name="Tilia n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Tilia" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Tilia" />
                 </item>
 
                 <item name="Tilia cordata" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Tilia_cordata" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Tilia_cordata" />
                 </item>
                 <item name="Tilia platyphyllos" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Tilia_platyphyllos" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Tilia_platyphyllos" />
                 </item>
                 <item name="Tilia americana" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Tilia_americana" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Tilia_americana" />
                 </item>
                 <item name="Tilia × europaea" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Tilia_x_europaea" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Tilia_x_europaea" />
                 </item>
                 <item name="Tilia × euchlora" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Tilia_x_euchlora" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Tilia_x_euchlora" />
                 </item>
             </group> <!-- Tilia -->
 
             <group name="Ulmus" >
                 <item name="Ulmus n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Ulmus" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Ulmus" />
                 </item>
 
                 <item name="Ulmus glabra" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Ulmus_glabra" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Ulmus_glabra" />
                 </item>
                 <item name="Ulmus laevis" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Ulmus_laevis" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Ulmus_laevis" />
                 </item>
             </group> <!-- Ulmus -->
 
             <group name="Fruit trees" >
                 <item name="Malus n.sp." type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Malus" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Malus" />
                 </item>
                 <item name="Malus domestica" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Malus_domestica" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Malus_domestica" />
                 </item>
                 <item name="Malus sylvestris" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Malus_sylvestris" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Malus_sylvestris" />
                 </item>
                 <item name="Pyrus communis" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Pyrus_communis" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Pyrus_communis" />
                 </item>
                 <item name="Pyrus pyraster" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Pyrus_pyraster" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Pyrus_pyraster" />
                 </item>
                 <item name="Prunus domestica" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Prunus_domestica" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Prunus_domestica" />
                 </item>
                 <item name="Prunus domestica syriaca" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Prunus_domestica_syriaca" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Prunus_domestica_syriaca" />
                 </item>
                 <item name="Prunus armeniaca" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Prunus_armeniaca" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Prunus_armeniaca" />
                 </item>
                 <item name="Prunus avium" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Prunus_avium" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Prunus_avium" />
                 </item>
                 <item name="Prunus cerasus" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Prunus_cerasus" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Prunus_cerasus" />
                 </item>
                 <item name="Prunus padus" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Prunus_padus" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Prunus_padus" />
                 </item>
                 <item name="Cydonia oblonga" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Cydonia_oblonga" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Cydonia_oblonga" />
                 </item>
                 <item name="Olea europaea" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Olea_europaea" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Olea_europaea" />
                 </item>
                 <item name="Prunus serrulata" type="way" >
-                   <reference ref="tree-row-keys" />
-                   <reference ref="Prunus_serrulata" />
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Prunus_serrulata" />
                 </item>
             </group> <!-- Fruit trees -->
 
             <item name="Liquidambar styraciflua" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Liquidambar_styraciflua" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Liquidambar_styraciflua" />
             </item>
 
             <item name="Koelreuteria paniculata" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Koelreuteria_paniculata" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Koelreuteria_paniculata" />
             </item>
 
             <item name="Catalpa bignonioides" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Catalpa_bignonioides" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Catalpa_bignonioides" />
             </item>
 
             <item name="Liriodendron tulipifera" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Liriodendron_tulipifera" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Liriodendron_tulipifera" />
             </item>
 
             <item name="Robinia pseudoacacia" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Robinia_pseudoacacia" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Robinia_pseudoacacia" />
             </item>
 
             <item name="Sambucus nigra" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Sambucus_nigra" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Sambucus_nigra" />
             </item>
 
             <item name="Ginkgo biloba" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Ginkgo_biloba" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Ginkgo_biloba" />
             </item>
 
             <item name="Gleditsia triacanthos" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Gleditsia_triacanthos" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Gleditsia_triacanthos" />
             </item>
 
             <item name="Ailanthus altissima" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Ailanthus_altissima" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Ailanthus_altissima" />
             </item>
 
             <item name="Cercis siliquastrum" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Cercis_siliquastrum" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Cercis_siliquastrum" />
             </item>
 
             <item name="Carpinus betulus" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Carpinus_betulus" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Carpinus_betulus" />
             </item>
 
             <item name="Ostrya carpinifolia" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Ostrya_carpinifolia" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Ostrya_carpinifolia" />
             </item>
 
             <item name="Pterocarya fraxinifolia" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Pterocarya_fraxinifolia" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Pterocarya_fraxinifolia" />
             </item>
 
             <item name="Styphnolobium japonicum" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Styphnolobium_japonicum" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Styphnolobium_japonicum" />
             </item>
 
             <item name="Ilex aquifolium" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Ilex_aquifolium" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Ilex_aquifolium" />
             </item>
 
             <item name="Parrotia persica" type="way" >
-               <reference ref="tree-row-keys" />
-               <reference ref="Parrotia_persica" />
+                <reference ref="tree-row-keys" />
+                <reference ref="Parrotia_persica" />
             </item>
 
         </group> <!-- Broad-leaved trees -->
