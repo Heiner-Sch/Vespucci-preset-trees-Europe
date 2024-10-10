@@ -1070,6 +1070,10 @@
                     <reference ref="tree-keys" />
                     <reference ref="Pinus_cembra" />
                 </item>
+                <item name="Pinus wallichiana" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Pinus_wallichiana" />
+                </item>
             </group> <!-- Pinus -->
 
             <group name="Tsuga" >
@@ -1178,6 +1182,10 @@
             <item name="Juniperus communis" type="node" >
                 <reference ref="tree-keys" />
                 <reference ref="Juniperus_communis" />
+            </item>
+            <item name="Taxodium distichum" type="node" >
+                <reference ref="tree-keys" />
+                <reference ref="Taxodium_distichum" />
             </item>
 
         </group> <!-- Coniferales -->
@@ -1375,6 +1383,10 @@
                 <item name="Quercus robur" type="node" >
                     <reference ref="tree-keys" />
                     <reference ref="Quercus_robur" />
+                </item>
+                <item name="Quercus palustris" type="node" >
+                    <reference ref="tree-keys" />
+                    <reference ref="Quercus_palustris" />
                 </item>
                 <item name="Quercus petraea" type="node" >
                     <reference ref="tree-keys" />
