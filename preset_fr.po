@@ -457,6 +457,10 @@ msgstr "Épicéa bleu"
 msgid "Pinus"
 msgstr "Pin"
 
+#: Vespucci-Trees-botanic.xml:1033(item:name|group:Pinus|preset:Pinus_wallichiana) Vespucci-Trees-botanic.xml:1807(item:name|group:Pinus|preset:Pinus_wallichiana)
+msgid "Pinus wallichiana"
+msgstr "Pin de l'Himalaya"
+
 #: Vespucci-Trees-botanic.xml:1021(item:name|group:Pinus|preset:Pinus_cembra) Vespucci-Trees-botanic.xml:1782(item:name|group:Pinus|preset:Pinus_cembra)
 msgid "Pinus cembra"
 msgstr "Pin des Alpes"
@@ -568,6 +572,10 @@ msgstr "Poirier sauvage européen"
 #: Vespucci-Trees-botanic.xml:1317(group:name|group:Quercus) Vespucci-Trees-botanic.xml:2123(group:name|group:Quercus)
 msgid "Quercus"
 msgstr "Chêne"
+
+#: Vespucci-Trees-botanic.xml:1343(item:name|group:Quercus|preset:Quercus_palustris) Vespucci-Trees-botanic.xml:2158(item:name|group:Quercus|preset:Quercus_palustris)
+msgid "Quercus palustris"
+msgstr "Chêne des marais"
 
 #: Vespucci-Trees-botanic.xml:1347(item:name|group:Quercus|preset:Quercus_cerris) Vespucci-Trees-botanic.xml:2153(item:name|group:Quercus|preset:Quercus_cerris)
 msgid "Quercus cerris"
@@ -740,6 +748,10 @@ msgstr "Tilleul de Crimée"
 #: Vespucci-Trees-botanic.xml:1307(item:name|group:Tilia|preset:Tilia_×_europaea) Vespucci-Trees-botanic.xml:2224(item:name|group:Tilia|preset:Tilia_×_europaea)
 msgid "Tilia × europaea"
 msgstr "Tilleul commun"
+
+#: Vespucci-Trees-botanic.xml:1134(item:name|preset:Taxodium_distichum) Vespucci-Trees-botanic.xml:1848(item:name|preset:Taxodium_distichum)
+msgid "Taxodium distichum"
+msgstr "Cyprès chauve"
 
 #: Vespucci-Trees-botanic.xml:981(item:name|group:Trees|preset:Tree)
 msgid "Tree"

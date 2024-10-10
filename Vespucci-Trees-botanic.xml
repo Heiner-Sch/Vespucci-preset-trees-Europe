@@ -165,6 +165,12 @@
            <key key="leaf_cycle" value="evergreen" />
            <key key="leaf_type" value="needleleaved" />
         </chunk>
+         <chunk id="Pinus_wallichiana" >
+            <key key="genus" value="Pinus" />
+            <key key="species" value="Pinus wallichiana" />
+            <key key="leaf_cycle" value="evergreen" />
+            <key key="leaf_type" value="needleleaved" />
+         </chunk>
     <!-- Pinus -->
 
     <!-- Tsuga -->
@@ -231,6 +237,12 @@
            <key key="genus" value="Juniperus" />
            <key key="species" value="Juniperus communis" />
            <key key="leaf_cycle" value="deciduous" />
+           <key key="leaf_type" value="needleleaved" />
+        </chunk>
+        <chunk id="Taxodium_distichum" >
+           <key key="genus" value="Taxodium" />
+           <key key="species" value="Taxodium distichum" />
+           <key key="leaf_cycle" value="evergreen" />
            <key key="leaf_type" value="needleleaved" />
         </chunk>
 <!-- Coniferales -->
@@ -630,6 +642,12 @@
         <chunk id="Quercus_robur" >
            <key key="genus" value="Quercus" />
            <key key="species" value="Quercus robur" />
+           <key key="leaf_cycle" value="deciduous" />
+           <key key="leaf_type" value="broadleaved" />
+        </chunk>
+        <chunk id="Quercus_palustris" >
+           <key key="genus" value="Quercus" />
+           <key key="species" value="Quercus palustris" />
            <key key="leaf_cycle" value="deciduous" />
            <key key="leaf_type" value="broadleaved" />
         </chunk>
@@ -1842,6 +1860,10 @@
                     <reference ref="tree-row-keys" />
                     <reference ref="Pinus_cembra" />
                 </item>
+                <item name="Pinus wallichiana" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Pinus_wallichiana" />
+                </item>
             </group> <!-- Pinus -->
 
             <group name="Sequoioideae" >
@@ -1890,6 +1912,10 @@
             <item name="Juniperus communis" type="way" >
                <reference ref="tree-row-keys" />
                <reference ref="Juniperus_communis" />
+            </item>
+            <item name="Taxodium distichum" type="way" >
+               <reference ref="tree-row-keys" />
+               <reference ref="Taxodium_distichum" />
             </item>
         </group> <!-- Coniferales -->
 
@@ -2184,6 +2210,10 @@
                 <item name="Quercus robur" type="way" >
                     <reference ref="tree-row-keys" />
                     <reference ref="Quercus_robur" />
+                </item>
+                <item name="Quercus palustris" type="way" >
+                    <reference ref="tree-row-keys" />
+                    <reference ref="Quercus_palustris" />
                 </item>
                 <item name="Quercus petraea" type="way" >
                     <reference ref="tree-row-keys" />

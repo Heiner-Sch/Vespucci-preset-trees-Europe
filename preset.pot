@@ -457,6 +457,10 @@ msgstr ""
 msgid "Pinus"
 msgstr ""
 
+#: Vespucci-Trees-botanic.xml:1033(item:name|group:Pinus|preset:Pinus_wallichiana) Vespucci-Trees-botanic.xml:1807(item:name|group:Pinus|preset:Pinus_wallichiana)
+msgid "Pinus wallichiana"
+msgstr ""
+
 #: Vespucci-Trees-botanic.xml:1033(item:name|group:Pinus|preset:Pinus_cembra) Vespucci-Trees-botanic.xml:1807(item:name|group:Pinus|preset:Pinus_cembra)
 msgid "Pinus cembra"
 msgstr ""
@@ -579,6 +583,10 @@ msgstr ""
 
 #: Vespucci-Trees-botanic.xml:1334(item:name|group:Quercus|preset:Quercus_n.sp.) Vespucci-Trees-botanic.xml:2149(item:name|group:Quercus|preset:Quercus_n.sp.)
 msgid "Quercus n.sp."
+msgstr ""
+
+#: Vespucci-Trees-botanic.xml:1343(item:name|group:Quercus|preset:Quercus_palustris) Vespucci-Trees-botanic.xml:2158(item:name|group:Quercus|preset:Quercus_palustris)
+msgid "Quercus palustris"
 msgstr ""
 
 #: Vespucci-Trees-botanic.xml:1343(item:name|group:Quercus|preset:Quercus_petraea) Vespucci-Trees-botanic.xml:2158(item:name|group:Quercus|preset:Quercus_petraea)
@@ -787,6 +795,10 @@ msgstr ""
 
 #: Vespucci-Trees-botanic.xml:1457(item:name|group:Ulmus|preset:Ulmus_n.sp.) Vespucci-Trees-botanic.xml:2260(item:name|group:Ulmus|preset:Ulmus_n.sp.)
 msgid "Ulmus n.sp."
+msgstr ""
+
+#: Vespucci-Trees-botanic.xml:1134(item:name|preset:Taxodium_distichum) Vespucci-Trees-botanic.xml:1848(item:name|preset:Taxodium_distichum)
+msgid "Taxodium distichum"
 msgstr ""
 
 #: Vespucci-Trees-botanic.xml:21(list_entry:short_description|value:agricultural)

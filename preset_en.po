@@ -457,6 +457,10 @@ msgstr "Blue spruce"
 msgid "Pinus"
 msgstr "Pines"
 
+#: Vespucci-Trees-botanic.xml:1033(item:name|group:Pinus|preset:Pinus_wallichiana) Vespucci-Trees-botanic.xml:1807(item:name|group:Pinus|preset:Pinus_wallichiana)
+msgid "Pinus wallichiana"
+msgstr "Bhutan pine"
+
 #: Vespucci-Trees-botanic.xml:1021(item:name|group:Pinus|preset:Pinus_cembra) Vespucci-Trees-botanic.xml:1782(item:name|group:Pinus|preset:Pinus_cembra)
 msgid "Pinus cembra"
 msgstr "Swiss pine"
@@ -568,6 +572,10 @@ msgstr "European wild pear"
 #: Vespucci-Trees-botanic.xml:1317(group:name|group:Quercus) Vespucci-Trees-botanic.xml:2123(group:name|group:Quercus)
 msgid "Quercus"
 msgstr "Oaks"
+
+#: Vespucci-Trees-botanic.xml:1343(item:name|group:Quercus|preset:Quercus_palustris) Vespucci-Trees-botanic.xml:2158(item:name|group:Quercus|preset:Quercus_palustris)
+msgid "Quercus palustris"
+msgstr "Pin oak"
 
 #: Vespucci-Trees-botanic.xml:1347(item:name|group:Quercus|preset:Quercus_cerris) Vespucci-Trees-botanic.xml:2153(item:name|group:Quercus|preset:Quercus_cerris)
 msgid "Quercus cerris"
@@ -740,6 +748,10 @@ msgstr "Caucasian lime"
 #: Vespucci-Trees-botanic.xml:1307(item:name|group:Tilia|preset:Tilia_×_europaea) Vespucci-Trees-botanic.xml:2224(item:name|group:Tilia|preset:Tilia_×_europaea)
 msgid "Tilia × europaea"
 msgstr "Common lime"
+
+#: Vespucci-Trees-botanic.xml:1134(item:name|preset:Taxodium_distichum) Vespucci-Trees-botanic.xml:1848(item:name|preset:Taxodium_distichum)
+msgid "Taxodium distichum"
+msgstr "Baldcypress"
 
 #: Vespucci-Trees-botanic.xml:981(item:name|group:Trees|preset:Tree)
 msgid "Tree"

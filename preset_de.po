@@ -457,6 +457,10 @@ msgstr "Blau-Fichte"
 msgid "Pinus"
 msgstr "Kiefern"
 
+#: Vespucci-Trees-botanic.xml:1033(item:name|group:Pinus|preset:Pinus_wallichiana) Vespucci-Trees-botanic.xml:1807(item:name|group:Pinus|preset:Pinus_wallichiana)
+msgid "Pinus wallichiana"
+msgstr "Tränen-Kiefer"
+
 #: Vespucci-Trees-botanic.xml:1033(item:name|group:Pinus|preset:Pinus_cembra) Vespucci-Trees-botanic.xml:1807(item:name|group:Pinus|preset:Pinus_cembra)
 msgid "Pinus cembra"
 msgstr "Zirbelkiefer"
@@ -568,6 +572,10 @@ msgstr "Wildbirne"
 #: Vespucci-Trees-botanic.xml:1333(group:name|group:Quercus) Vespucci-Trees-botanic.xml:2148(group:name|group:Quercus)
 msgid "Quercus"
 msgstr "Eichen"
+
+#: Vespucci-Trees-botanic.xml:1343(item:name|group:Quercus|preset:Quercus_palustris) Vespucci-Trees-botanic.xml:2158(item:name|group:Quercus|preset:Quercus_palustris)
+msgid "Quercus palustris"
+msgstr "Sumpf-Eiche"
 
 #: Vespucci-Trees-botanic.xml:1363(item:name|group:Quercus|preset:Quercus_cerris) Vespucci-Trees-botanic.xml:2178(item:name|group:Quercus|preset:Quercus_cerris)
 msgid "Quercus cerris"
@@ -740,6 +748,10 @@ msgstr "Krim-Linde"
 #: Vespucci-Trees-botanic.xml:1323(item:name|group:Tilia|preset:Tilia_×_europaea) Vespucci-Trees-botanic.xml:2249(item:name|group:Tilia|preset:Tilia_×_europaea)
 msgid "Tilia × europaea"
 msgstr "Holländische Linde"
+
+#: Vespucci-Trees-botanic.xml:1134(item:name|preset:Taxodium_distichum) Vespucci-Trees-botanic.xml:1848(item:name|preset:Taxodium_distichum)
+msgid "Taxodium distichum"
+msgstr "Echte Sumpfzypresse"
 
 #: Vespucci-Trees-botanic.xml:993(item:name|group:Trees|preset:Tree)
 msgid "Tree"
