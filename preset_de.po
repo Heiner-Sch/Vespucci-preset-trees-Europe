@@ -1,151 +1,188 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-04-21 12:58+0200\n"
-"PO-Revision-Date: 2024-04-21 HO:MI+ZONE\n"
-"Last-Translator: Heiner Schaefer <EMAIL@ADDRESS>\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-10-13\n"
+"PO-Revision-Date: 2024-10-13\n"
+"Last-Translator: Heiner <EMAIL@ADDRESS>\n"
 "Language-Team: DE <LL@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
 
-#: Vespucci-Trees-botanic.xml:1074(group:name|group:Abies) Vespucci-Trees-botanic.xml:1704(group:name|group:Abies)
+#: Vespucci-Trees-botanic.xml:1130(group:name|group:Abies)
+#: Vespucci-Trees-botanic.xml:1785(group:name|group:Abies)
 msgid "Abies"
 msgstr "Tannen"
 
-#: Vespucci-Trees-botanic.xml:1080(item:name|group:Abies|preset:Abies_alba) Vespucci-Trees-botanic.xml:1710(item:name|group:Abies|preset:Abies_alba)
+#: Vespucci-Trees-botanic.xml:1136(item:name|group:Abies|preset:Abies_alba)
+#: Vespucci-Trees-botanic.xml:1791(item:name|group:Abies|preset:Abies_alba)
 msgid "Abies alba"
 msgstr "Weißtanne"
 
-#: Vespucci-Trees-botanic.xml:1092(item:name|group:Abies|preset:Abies_concolor) Vespucci-Trees-botanic.xml:1722(item:name|group:Abies|preset:Abies_concolor)
+#: Vespucci-Trees-botanic.xml:1148(item:name|group:Abies|preset:Abies_concolor)
+#: Vespucci-Trees-botanic.xml:1803(item:name|group:Abies|preset:Abies_concolor)
 msgid "Abies concolor"
 msgstr "Kolorado-Tanne"
 
-#: Vespucci-Trees-botanic.xml:1075(item:name|group:Abies|preset:Abies_n.sp.) Vespucci-Trees-botanic.xml:1705(item:name|group:Abies|preset:Abies_n.sp.)
+#: Vespucci-Trees-botanic.xml:1131(item:name|group:Abies|preset:Abies_n.sp.)
+#: Vespucci-Trees-botanic.xml:1786(item:name|group:Abies|preset:Abies_n.sp.)
 msgid "Abies n.sp."
 msgstr "unspezifizierte Tanne"
 
-#: Vespucci-Trees-botanic.xml:1084(item:name|group:Abies|preset:Abies_nordmanniana) Vespucci-Trees-botanic.xml:1714(item:name|group:Abies|preset:Abies_nordmanniana)
+#: Vespucci-Trees-botanic.xml:1140(item:name|group:Abies|preset:Abies_nordmanniana)
+#: Vespucci-Trees-botanic.xml:1795(item:name|group:Abies|preset:Abies_nordmanniana)
 msgid "Abies nordmanniana"
 msgstr "Nordmann-Tanne"
 
-#: Vespucci-Trees-botanic.xml:1088(item:name|group:Abies|preset:Abies_procera) Vespucci-Trees-botanic.xml:1718(item:name|group:Abies|preset:Abies_procera)
+#: Vespucci-Trees-botanic.xml:1144(item:name|group:Abies|preset:Abies_procera)
+#: Vespucci-Trees-botanic.xml:1799(item:name|group:Abies|preset:Abies_procera)
 msgid "Abies procera"
 msgstr "Edel-Tanne"
 
-#: Vespucci-Trees-botanic.xml:1142(group:name|group:Acer) Vespucci-Trees-botanic.xml:1846(group:name|group:Acer)
+#: Vespucci-Trees-botanic.xml:1202(group:name|group:Acer)
+#: Vespucci-Trees-botanic.xml:1939(group:name|group:Acer)
 msgid "Acer"
 msgstr "Ahorne"
 
-#: Vespucci-Trees-botanic.xml:1152(item:name|group:Acer|preset:Acer_buergerianum) Vespucci-Trees-botanic.xml:1856(item:name|group:Acer|preset:Acer_buergerianum)
+#: Vespucci-Trees-botanic.xml:1212(item:name|group:Acer|preset:Acer_buergerianum)
+#: Vespucci-Trees-botanic.xml:1949(item:name|group:Acer|preset:Acer_buergerianum)
 msgid "Acer buergerianum"
 msgstr "Dreispitz-Ahorn"
 
-#: Vespucci-Trees-botanic.xml:1160(item:name|group:Acer|preset:Acer_campestre) Vespucci-Trees-botanic.xml:1864(item:name|group:Acer|preset:Acer_campestre)
+#: Vespucci-Trees-botanic.xml:1220(item:name|group:Acer|preset:Acer_campestre)
+#: Vespucci-Trees-botanic.xml:1957(item:name|group:Acer|preset:Acer_campestre)
 msgid "Acer campestre"
 msgstr "Feldahorn"
 
-#: Vespucci-Trees-botanic.xml:1164(item:name|group:Acer|preset:Acer_monspessulanum) Vespucci-Trees-botanic.xml:1868(item:name|group:Acer|preset:Acer_monspessulanum)
+#: Vespucci-Trees-botanic.xml:1224(item:name|group:Acer|preset:Acer_monspessulanum)
+#: Vespucci-Trees-botanic.xml:1961(item:name|group:Acer|preset:Acer_monspessulanum)
 msgid "Acer monspessulanum"
 msgstr "Französischer Ahorn"
 
-#: Vespucci-Trees-botanic.xml:1143(item:name|group:Acer|preset:Acer_n.sp.) Vespucci-Trees-botanic.xml:1847(item:name|group:Acer|preset:Acer_n.sp.)
+#: Vespucci-Trees-botanic.xml:1203(item:name|group:Acer|preset:Acer_n.sp.)
+#: Vespucci-Trees-botanic.xml:1940(item:name|group:Acer|preset:Acer_n.sp.)
 msgid "Acer n.sp."
 msgstr "unspezifizierter Ahorn"
 
-#: Vespucci-Trees-botanic.xml:1156(item:name|group:Acer|preset:Acer_negundo) Vespucci-Trees-botanic.xml:1860(item:name|group:Acer|preset:Acer_negundo)
+#: Vespucci-Trees-botanic.xml:1216(item:name|group:Acer|preset:Acer_negundo)
+#: Vespucci-Trees-botanic.xml:1953(item:name|group:Acer|preset:Acer_negundo)
 msgid "Acer negundo"
 msgstr "Eschen-Ahorn"
 
-#: Vespucci-Trees-botanic.xml:1168(item:name|group:Acer|preset:Acer_opalus) Vespucci-Trees-botanic.xml:1872(item:name|group:Acer|preset:Acer_opalus)
+#: Vespucci-Trees-botanic.xml:1228(item:name|group:Acer|preset:Acer_opalus)
+#: Vespucci-Trees-botanic.xml:1965(item:name|group:Acer|preset:Acer_opalus)
 msgid "Acer opalus"
 msgstr "Schneeball-Ahorn"
 
-#: Vespucci-Trees-botanic.xml:1172(item:name|group:Acer|preset:Acer_platanoides) Vespucci-Trees-botanic.xml:1876(item:name|group:Acer|preset:Acer_platanoides)
+#: Vespucci-Trees-botanic.xml:1232(item:name|group:Acer|preset:Acer_platanoides)
+#: Vespucci-Trees-botanic.xml:1969(item:name|group:Acer|preset:Acer_platanoides)
 msgid "Acer platanoides"
 msgstr "Spitzahorn"
 
-#: Vespucci-Trees-botanic.xml:1148(item:name|group:Acer|preset:Acer_pseudoplatanus) Vespucci-Trees-botanic.xml:1852(item:name|group:Acer|preset:Acer_pseudoplatanus)
+#: Vespucci-Trees-botanic.xml:1208(item:name|group:Acer|preset:Acer_pseudoplatanus)
+#: Vespucci-Trees-botanic.xml:1945(item:name|group:Acer|preset:Acer_pseudoplatanus)
 msgid "Acer pseudoplatanus"
 msgstr "Berg-Ahorn"
 
-#: Vespucci-Trees-botanic.xml:1176(item:name|group:Acer|preset:Acer_saccharinum) Vespucci-Trees-botanic.xml:1880(item:name|group:Acer|preset:Acer_saccharinum)
+#: Vespucci-Trees-botanic.xml:1236(item:name|group:Acer|preset:Acer_saccharinum)
+#: Vespucci-Trees-botanic.xml:1973(item:name|group:Acer|preset:Acer_saccharinum)
 msgid "Acer saccharinum"
 msgstr "Silber-Ahorn"
 
-#: Vespucci-Trees-botanic.xml:1182(group:name|group:Aesculus) Vespucci-Trees-botanic.xml:1886(group:name|group:Aesculus) Vespucci-Trees-botanic.xml:1887(item:name|group:Aesculus|preset:Aesculus)
+#: Vespucci-Trees-botanic.xml:1242(group:name|group:Aesculus)
+#: Vespucci-Trees-botanic.xml:1979(group:name|group:Aesculus)
+#: Vespucci-Trees-botanic.xml:1980(item:name|group:Aesculus|preset:Aesculus)
 msgid "Aesculus"
 msgstr "Rosskastanien"
 
-#: Vespucci-Trees-botanic.xml:1188(item:name|group:Aesculus|preset:Aesculus_hippocastanum) Vespucci-Trees-botanic.xml:1892(item:name|group:Aesculus|preset:Aesculus_hippocastanum)
+#: Vespucci-Trees-botanic.xml:1248(item:name|group:Aesculus|preset:Aesculus_hippocastanum)
+#: Vespucci-Trees-botanic.xml:1985(item:name|group:Aesculus|preset:Aesculus_hippocastanum)
 msgid "Aesculus hippocastanum"
 msgstr "Gewöhnliche Rosskastanie"
 
-#: Vespucci-Trees-botanic.xml:1183(item:name|group:Aesculus|preset:Aesculus_n.sp.)
+#: Vespucci-Trees-botanic.xml:1243(item:name|group:Aesculus|preset:Aesculus_n.sp.)
 msgid "Aesculus n.sp."
 msgstr "unspezifizierte Rosskastanie"
 
-#: Vespucci-Trees-botanic.xml:1192(item:name|group:Aesculus|preset:Aesculus_×_carnea) Vespucci-Trees-botanic.xml:1896(item:name|group:Aesculus|preset:Aesculus_×_carnea)
+#: Vespucci-Trees-botanic.xml:1252(item:name|group:Aesculus|preset:Aesculus_×_carnea)
+#: Vespucci-Trees-botanic.xml:1989(item:name|group:Aesculus|preset:Aesculus_×_carnea)
 msgid "Aesculus × carnea"
 msgstr "Fleischrote Rosskastanie"
 
-#: Vespucci-Trees-botanic.xml:1645(item:name|preset:Ailanthus_altissima) Vespucci-Trees-botanic.xml:2349(item:name|preset:Ailanthus_altissima)
+#: Vespucci-Trees-botanic.xml:1721(item:name|preset:Ailanthus_altissima)
+#: Vespucci-Trees-botanic.xml:2458(item:name|preset:Ailanthus_altissima)
 msgid "Ailanthus altissima"
 msgstr "Götterbaum"
 
-#: Vespucci-Trees-botanic.xml:1198(group:name|group:Alnus) Vespucci-Trees-botanic.xml:1902(group:name|group:Alnus)
+#: Vespucci-Trees-botanic.xml:1258(group:name|group:Alnus)
+#: Vespucci-Trees-botanic.xml:1995(group:name|group:Alnus)
 msgid "Alnus"
 msgstr "Erlen"
 
-#: Vespucci-Trees-botanic.xml:1212(item:name|group:Alnus|preset:Alnus_alnobetula) Vespucci-Trees-botanic.xml:1916(item:name|group:Alnus|preset:Alnus_alnobetula)
+#: Vespucci-Trees-botanic.xml:1272(item:name|group:Alnus|preset:Alnus_alnobetula)
+#: Vespucci-Trees-botanic.xml:2009(item:name|group:Alnus|preset:Alnus_alnobetula)
 msgid "Alnus alnobetula"
 msgstr "Grün-Erle"
 
-#: Vespucci-Trees-botanic.xml:1216(item:name|group:Alnus|preset:Alnus_cordata) Vespucci-Trees-botanic.xml:1920(item:name|group:Alnus|preset:Alnus_cordata)
+#: Vespucci-Trees-botanic.xml:1276(item:name|group:Alnus|preset:Alnus_cordata)
+#: Vespucci-Trees-botanic.xml:2013(item:name|group:Alnus|preset:Alnus_cordata)
 msgid "Alnus cordata"
 msgstr "Herzblättrige Erle"
 
-#: Vespucci-Trees-botanic.xml:1204(item:name|group:Alnus|preset:Alnus_glutinosa) Vespucci-Trees-botanic.xml:1908(item:name|group:Alnus|preset:Alnus_glutinosa)
+#: Vespucci-Trees-botanic.xml:1264(item:name|group:Alnus|preset:Alnus_glutinosa)
+#: Vespucci-Trees-botanic.xml:2001(item:name|group:Alnus|preset:Alnus_glutinosa)
 msgid "Alnus glutinosa"
 msgstr "Schwarz-Erle"
 
-#: Vespucci-Trees-botanic.xml:1208(item:name|group:Alnus|preset:Alnus_incana) Vespucci-Trees-botanic.xml:1912(item:name|group:Alnus|preset:Alnus_incana)
+#: Vespucci-Trees-botanic.xml:1268(item:name|group:Alnus|preset:Alnus_incana)
+#: Vespucci-Trees-botanic.xml:2005(item:name|group:Alnus|preset:Alnus_incana)
 msgid "Alnus incana"
 msgstr "Grau-Erle"
 
-#: Vespucci-Trees-botanic.xml:1199(item:name|group:Alnus|preset:Alnus_n.sp.) Vespucci-Trees-botanic.xml:1903(item:name|group:Alnus|preset:Alnus_n.sp.)
+#: Vespucci-Trees-botanic.xml:1259(item:name|group:Alnus|preset:Alnus_n.sp.)
+#: Vespucci-Trees-botanic.xml:1996(item:name|group:Alnus|preset:Alnus_n.sp.)
 msgid "Alnus n.sp."
 msgstr "unspezifizierte Erle"
 
-#: Vespucci-Trees-botanic.xml:1222(group:name|group:Betula) Vespucci-Trees-botanic.xml:1926(group:name|group:Betula)
+#: Vespucci-Trees-botanic.xml:1282(group:name|group:Betula)
+#: Vespucci-Trees-botanic.xml:2019(group:name|group:Betula)
 msgid "Betula"
 msgstr "Birken"
 
-#: Vespucci-Trees-botanic.xml:1223(item:name|group:Betula|preset:Betula_n.sp.) Vespucci-Trees-botanic.xml:1927(item:name|group:Betula|preset:Betula_n.sp.)
+#: Vespucci-Trees-botanic.xml:1283(item:name|group:Betula|preset:Betula_n.sp.)
+#: Vespucci-Trees-botanic.xml:2020(item:name|group:Betula|preset:Betula_n.sp.)
 msgid "Betula n.sp."
 msgstr "unspezifizierte Birke"
 
-#: Vespucci-Trees-botanic.xml:1240(item:name|group:Betula|preset:Betula_papyrifera) Vespucci-Trees-botanic.xml:1944(item:name|group:Betula|preset:Betula_papyrifera)
+#: Vespucci-Trees-botanic.xml:1300(item:name|group:Betula|preset:Betula_papyrifera)
+#: Vespucci-Trees-botanic.xml:2037(item:name|group:Betula|preset:Betula_papyrifera)
 msgid "Betula papyrifera"
 msgstr "Papier-Birke"
 
-#: Vespucci-Trees-botanic.xml:1228(item:name|group:Betula|preset:Betula_pendula) Vespucci-Trees-botanic.xml:1932(item:name|group:Betula|preset:Betula_pendula)
+#: Vespucci-Trees-botanic.xml:1288(item:name|group:Betula|preset:Betula_pendula)
+#: Vespucci-Trees-botanic.xml:2025(item:name|group:Betula|preset:Betula_pendula)
 msgid "Betula pendula"
 msgstr "Hänge-Birke"
 
-#: Vespucci-Trees-botanic.xml:1232(item:name|group:Betula|preset:Betula_pubescens) Vespucci-Trees-botanic.xml:1936(item:name|group:Betula|preset:Betula_pubescens)
+#: Vespucci-Trees-botanic.xml:1292(item:name|group:Betula|preset:Betula_pubescens)
+#: Vespucci-Trees-botanic.xml:2029(item:name|group:Betula|preset:Betula_pubescens)
 msgid "Betula pubescens"
 msgstr "Moor-Birke"
 
-#: Vespucci-Trees-botanic.xml:1236(item:name|group:Betula|preset:Betula_utilis) Vespucci-Trees-botanic.xml:1940(item:name|group:Betula|preset:Betula_utilis)
+#: Vespucci-Trees-botanic.xml:1296(item:name|group:Betula|preset:Betula_utilis)
+#: Vespucci-Trees-botanic.xml:2033(item:name|group:Betula|preset:Betula_utilis)
 msgid "Betula utilis"
 msgstr "Himalaya-Birke"
 
-#: Vespucci-Trees-botanic.xml:1134(item:name|group:Broad-leaved_trees|preset:Broad-leaved_tree_n.sp.) Vespucci-Trees-botanic.xml:1838(item:name|group:Broad-leaved_trees|preset:Broad-leaved_tree_n.sp.)
+#: Vespucci-Trees-botanic.xml:1194(item:name|group:Broad-leaved_trees|preset:Broad-leaved_tree_n.sp.)
+#: Vespucci-Trees-botanic.xml:1931(item:name|group:Broad-leaved_trees|preset:Broad-leaved_tree_n.sp.)
 msgid "Broad-leaved tree n.sp."
 msgstr "unspezifizierter Laubbaum"
 
-#: Vespucci-Trees-botanic.xml:1133(group:name|group:Broad-leaved_trees) Vespucci-Trees-botanic.xml:1837(group:name|group:Broad-leaved_trees)
+#: Vespucci-Trees-botanic.xml:1193(group:name|group:Broad-leaved_trees)
+#: Vespucci-Trees-botanic.xml:1930(group:name|group:Broad-leaved_trees)
 msgid "Broad-leaved trees"
 msgstr "Laubbäume"
 
@@ -153,63 +190,78 @@ msgstr "Laubbäume"
 msgid "Broadleaved"
 msgstr "Breitblättrig/Laubblätter"
 
-#: Vespucci-Trees-botanic.xml:1655(item:name|preset:Carpinus_betulus) Vespucci-Trees-botanic.xml:2359(item:name|preset:Carpinus_betulus)
+#: Vespucci-Trees-botanic.xml:1731(item:name|preset:Carpinus_betulus)
+#: Vespucci-Trees-botanic.xml:2468(item:name|preset:Carpinus_betulus)
 msgid "Carpinus betulus"
 msgstr "Hainbuche"
 
-#: Vespucci-Trees-botanic.xml:1246(group:name|group:Castanea) Vespucci-Trees-botanic.xml:1950(group:name|group:Castanea)
+#: Vespucci-Trees-botanic.xml:1306(group:name|group:Castanea)
+#: Vespucci-Trees-botanic.xml:2043(group:name|group:Castanea)
 msgid "Castanea"
 msgstr "(Edel)Kastanien"
 
-#: Vespucci-Trees-botanic.xml:1247(item:name|group:Castanea|preset:Castanea_n.sp.) Vespucci-Trees-botanic.xml:1951(item:name|group:Castanea|preset:Castanea_n.sp.)
+#: Vespucci-Trees-botanic.xml:1307(item:name|group:Castanea|preset:Castanea_n.sp.)
+#: Vespucci-Trees-botanic.xml:2044(item:name|group:Castanea|preset:Castanea_n.sp.)
 msgid "Castanea n.sp."
 msgstr "unspezifizierte Edelkastanie"
 
-#: Vespucci-Trees-botanic.xml:1252(item:name|group:Castanea|preset:Castanea_sativa) Vespucci-Trees-botanic.xml:1956(item:name|group:Castanea|preset:Castanea_sativa)
+#: Vespucci-Trees-botanic.xml:1312(item:name|group:Castanea|preset:Castanea_sativa)
+#: Vespucci-Trees-botanic.xml:2049(item:name|group:Castanea|preset:Castanea_sativa)
 msgid "Castanea sativa"
 msgstr "Edelkastanie"
 
-#: Vespucci-Trees-botanic.xml:1615(item:name|preset:Catalpa_bignonioides) Vespucci-Trees-botanic.xml:2319(item:name|preset:Catalpa_bignonioides)
+#: Vespucci-Trees-botanic.xml:1691(item:name|preset:Catalpa_bignonioides)
+#: Vespucci-Trees-botanic.xml:2428(item:name|preset:Catalpa_bignonioides)
 msgid "Catalpa bignonioides"
 msgstr "Gewöhnlicher Trompetenbaum"
 
-#: Vespucci-Trees-botanic.xml:1058(group:name|group:Cedrus) Vespucci-Trees-botanic.xml:1728(group:name|group:Cedrus)
+#: Vespucci-Trees-botanic.xml:1110(group:name|group:Cedrus)
+#: Vespucci-Trees-botanic.xml:1809(group:name|group:Cedrus)
 msgid "Cedrus"
 msgstr "Zedern"
 
-#: Vespucci-Trees-botanic.xml:1064(item:name|group:Cedrus|preset:Cedrus_atlantica) Vespucci-Trees-botanic.xml:1734(item:name|group:Cedrus|preset:Cedrus_atlantica)
+#: Vespucci-Trees-botanic.xml:1116(item:name|group:Cedrus|preset:Cedrus_atlantica)
+#: Vespucci-Trees-botanic.xml:1815(item:name|group:Cedrus|preset:Cedrus_atlantica)
 msgid "Cedrus atlantica"
 msgstr "Atlas-Zeder"
 
-#: Vespucci-Trees-botanic.xml:1068(item:name|group:Cedrus|preset:Cedrus_deodara) Vespucci-Trees-botanic.xml:1738(item:name|group:Cedrus|preset:Cedrus_deodara)
+#: Vespucci-Trees-botanic.xml:1120(item:name|group:Cedrus|preset:Cedrus_deodara)
+#: Vespucci-Trees-botanic.xml:1819(item:name|group:Cedrus|preset:Cedrus_deodara)
 msgid "Cedrus deodara"
 msgstr "Himalaya-Zeder"
 
-#: Vespucci-Trees-botanic.xml:1084(item:name|group:Cedrus|preset:Cedrus_libani) Vespucci-Trees-botanic.xml:1763(item:name|group:Cedrus|preset:Cedrus_libani)
+#: Vespucci-Trees-botanic.xml:1124(item:name|group:Cedrus|preset:Cedrus_libani)
+#: Vespucci-Trees-botanic.xml:1823(item:name|group:Cedrus|preset:Cedrus_libani)
 msgid "Cedrus libani"
 msgstr "Libanon-Zeder"
 
-#: Vespucci-Trees-botanic.xml:1071(item:name|group:Cedrus|preset:Cedrus_n.sp.) Vespucci-Trees-botanic.xml:1750(item:name|group:Cedrus|preset:Cedrus_n.sp.)
+#: Vespucci-Trees-botanic.xml:1111(item:name|group:Cedrus|preset:Cedrus_n.sp.)
+#: Vespucci-Trees-botanic.xml:1810(item:name|group:Cedrus|preset:Cedrus_n.sp.)
 msgid "Cedrus n.sp."
 msgstr "unspezifizierte Zeder"
 
-#: Vespucci-Trees-botanic.xml:1605(group:name|group:Celtis) Vespucci-Trees-botanic.xml:1987(group:name|group:Celtis)
+#: Vespucci-Trees-botanic.xml:1665(group:name|group:Celtis)
+#: Vespucci-Trees-botanic.xml:2055(group:name|group:Celtis)
 msgid "Celtis"
 msgstr "Zürgelbäume"
 
-#: Vespucci-Trees-botanic.xml:1615(item:name|group:Celtis|preset:Celtis_australis) Vespucci-Trees-botanic.xml:1997(item:name|group:Celtis|preset:Celtis_australis)
+#: Vespucci-Trees-botanic.xml:1675(item:name|group:Celtis|preset:Celtis_australis)
+#: Vespucci-Trees-botanic.xml:2065(item:name|group:Celtis|preset:Celtis_australis)
 msgid "Celtis australis"
 msgstr "Europäischer Zürgelbaum"
 
-#: Vespucci-Trees-botanic.xml:1606(item:name|group:Celtis|preset:Celtis_n.sp.) Vespucci-Trees-botanic.xml:1988(item:name|group:Celtis|preset:Celtis_n.sp.)
+#: Vespucci-Trees-botanic.xml:1666(item:name|group:Celtis|preset:Celtis_n.sp.)
+#: Vespucci-Trees-botanic.xml:2056(item:name|group:Celtis|preset:Celtis_n.sp.)
 msgid "Celtis n.sp."
 msgstr "unspezifizierter Zürgelbaum"
 
-#: Vespucci-Trees-botanic.xml:1611(item:name|group:Celtis|preset:Celtis_occidentalis) Vespucci-Trees-botanic.xml:1993(item:name|group:Celtis|preset:Celtis_occidentalis)
+#: Vespucci-Trees-botanic.xml:1671(item:name|group:Celtis|preset:Celtis_occidentalis)
+#: Vespucci-Trees-botanic.xml:2061(item:name|group:Celtis|preset:Celtis_occidentalis)
 msgid "Celtis occidentalis"
 msgstr "Amerikanischer Zürgelbaum"
 
-#: Vespucci-Trees-botanic.xml:1666(item:name|preset:Cercis_siliquastrum) Vespucci-Trees-botanic.xml:2379(item:name|preset:Cercis_siliquastrum)
+#: Vespucci-Trees-botanic.xml:1726(item:name|preset:Cercis_siliquastrum)
+#: Vespucci-Trees-botanic.xml:2463(item:name|preset:Cercis_siliquastrum)
 msgid "Cercis siliquastrum"
 msgstr "Gewöhnlicher Judasbaum"
 
@@ -217,55 +269,68 @@ msgstr "Gewöhnlicher Judasbaum"
 msgid "Circumference (meters)"
 msgstr "Stammumfang (Meter)"
 
-#: Vespucci-Trees-botanic.xml:1002(group:name|group:Coniferales) Vespucci-Trees-botanic.xml:1716(group:name|group:Coniferales)
+#: Vespucci-Trees-botanic.xml:1038(group:name|group:Coniferales)
+#: Vespucci-Trees-botanic.xml:1776(group:name|group:Coniferales)
 msgid "Coniferales"
 msgstr "Nadelbäume"
 
-#: Vespucci-Trees-botanic.xml:1003(item:name|group:Coniferales|preset:Coniferales_n.sp.) Vespucci-Trees-botanic.xml:1717(item:name|group:Coniferales|preset:Coniferales_n.sp.)
+#: Vespucci-Trees-botanic.xml:1039(item:name|group:Coniferales|preset:Coniferales_n.sp.)
+#: Vespucci-Trees-botanic.xml:1777(item:name|group:Coniferales|preset:Coniferales_n.sp.)
 msgid "Coniferales n.sp."
 msgstr "unspezifizierter Nadelbaum"
 
-#: Vespucci-Trees-botanic.xml:1562(group:name|group:Corylus) Vespucci-Trees-botanic.xml:2003(group:name|group:Corylus)
+#: Vespucci-Trees-botanic.xml:1626(group:name|group:Corylus)
+#: Vespucci-Trees-botanic.xml:2071(group:name|group:Corylus)
 msgid "Corylus"
 msgstr "Haseln"
 
-#: Vespucci-Trees-botanic.xml:1563(item:name|group:Corylus|preset:Corylus_avellana) Vespucci-Trees-botanic.xml:2004(item:name|group:Corylus|preset:Corylus_avellana)
+#: Vespucci-Trees-botanic.xml:1627(item:name|group:Corylus|preset:Corylus_avellana)
+#: Vespucci-Trees-botanic.xml:2072(item:name|group:Corylus|preset:Corylus_avellana)
 msgid "Corylus avellana"
 msgstr "Haselnussstrauch"
 
-#: Vespucci-Trees-botanic.xml:1567(item:name|group:Corylus|preset:Corylus_colurna) Vespucci-Trees-botanic.xml:2008(item:name|group:Corylus|preset:Corylus_colurna)
+#: Vespucci-Trees-botanic.xml:1631(item:name|group:Corylus|preset:Corylus_colurna)
+#: Vespucci-Trees-botanic.xml:2076(item:name|group:Corylus|preset:Corylus_colurna)
 msgid "Corylus colurna"
 msgstr "Baum-Hasel"
 
-#: Vespucci-Trees-botanic.xml:1573(group:name|group:Crataegus) Vespucci-Trees-botanic.xml:2014(group:name|group:Crataegus)
+#: Vespucci-Trees-botanic.xml:1637(group:name|group:Crataegus)
+#: Vespucci-Trees-botanic.xml:2082(group:name|group:Crataegus)
 msgid "Crataegus"
 msgstr "Weißdorne"
 
-#: Vespucci-Trees-botanic.xml:1591(item:name|group:Crataegus|preset:Crataegus_crus-galli) Vespucci-Trees-botanic.xml:2032(item:name|group:Crataegus|preset:Crataegus_crus-galli)
+#: Vespucci-Trees-botanic.xml:1655(item:name|group:Crataegus|preset:Crataegus_crus-galli)
+#: Vespucci-Trees-botanic.xml:2100(item:name|group:Crataegus|preset:Crataegus_crus-galli)
 msgid "Crataegus crus-galli"
 msgstr "Hahnensporn-Weißdorn"
 
-#: Vespucci-Trees-botanic.xml:1595(item:name|group:Crataegus|preset:Crataegus_laevigata) Vespucci-Trees-botanic.xml:2036(item:name|group:Crataegus|preset:Crataegus_laevigata)
+#: Vespucci-Trees-botanic.xml:1659(item:name|group:Crataegus|preset:Crataegus_laevigata)
+#: Vespucci-Trees-botanic.xml:2104(item:name|group:Crataegus|preset:Crataegus_laevigata)
 msgid "Crataegus laevigata"
 msgstr "Gemeiner Weißdorn"
 
-#: Vespucci-Trees-botanic.xml:1583(item:name|group:Crataegus|preset:Crataegus_monogyna) Vespucci-Trees-botanic.xml:2024(item:name|group:Crataegus|preset:Crataegus_monogyna)
+#: Vespucci-Trees-botanic.xml:1647(item:name|group:Crataegus|preset:Crataegus_monogyna)
+#: Vespucci-Trees-botanic.xml:2092(item:name|group:Crataegus|preset:Crataegus_monogyna)
 msgid "Crataegus monogyna"
 msgstr "Eingriffeliger Weißdorn"
 
-#: Vespucci-Trees-botanic.xml:1574(item:name|group:Crataegus|preset:Crataegus_n.sp.) Vespucci-Trees-botanic.xml:2015(item:name|group:Crataegus|preset:Crataegus_n.sp.)
+#: Vespucci-Trees-botanic.xml:1638(item:name|group:Crataegus|preset:Crataegus_n.sp.)
+#: Vespucci-Trees-botanic.xml:2083(item:name|group:Crataegus|preset:Crataegus_n.sp.)
 msgid "Crataegus n.sp."
 msgstr "unspezifizierter Weißdorn"
 
-#: Vespucci-Trees-botanic.xml:1587(item:name|group:Crataegus|preset:Crataegus_rhipidophylla) Vespucci-Trees-botanic.xml:2028(item:name|group:Crataegus|preset:Crataegus_rhipidophylla)
+#: Vespucci-Trees-botanic.xml:1651(item:name|group:Crataegus|preset:Crataegus_rhipidophylla)
+#: Vespucci-Trees-botanic.xml:2096(item:name|group:Crataegus|preset:Crataegus_rhipidophylla)
 msgid "Crataegus rhipidophylla"
 msgstr "Großkelchiger Weißdorn"
 
-#: Vespucci-Trees-botanic.xml:1579(item:name|group:Crataegus|preset:Crataegus_x_lavallei) Vespucci-Trees-botanic.xml:2020(item:name|group:Crataegus|preset:Crataegus_x_lavallei)
+#: Vespucci-Trees-botanic.xml:1643(item:name|group:Crataegus|preset:Crataegus_x_lavallei)
+#: Vespucci-Trees-botanic.xml:2088(item:name|group:Crataegus|preset:Crataegus_x_lavallei)
 msgid "Crataegus x lavallei"
 msgstr "Lederblättrigen Weißdorn"
 
-#: Vespucci-Trees-botanic.xml:1517(item:name|group:Fruit_trees|preset:Cydonia_oblonga) Vespucci-Trees-botanic.xml:2320(item:name|group:Fruit_trees|preset:Cydonia_oblonga)
+#: Vespucci-Trees-botanic.xml:1581(item:name|group:Fruit_trees|preset:Cydonia_oblonga)
+#: Vespucci-Trees-botanic.xml:2404(item:name|group:Fruit_trees|preset:Cydonia_oblonga)
 msgid "Cydonia oblonga"
 msgstr "Quitte"
 
@@ -281,83 +346,107 @@ msgstr "Kronendurchmesser (Meter)"
 msgid "Evergreen"
 msgstr "Immergrün"
 
-#: Vespucci-Trees-botanic.xml:1274(group:name|group:Fagus) Vespucci-Trees-botanic.xml:2046(group:name|group:Fagus)
+#: Vespucci-Trees-botanic.xml:1318(group:name|group:Fagus)
+#: Vespucci-Trees-botanic.xml:2110(group:name|group:Fagus)
 msgid "Fagus"
 msgstr "Buchen"
 
-#: Vespucci-Trees-botanic.xml:1275(item:name|group:Fagus|preset:Fagus_sylvatica) Vespucci-Trees-botanic.xml:2047(item:name|group:Fagus|preset:Fagus_sylvatica)
+#: Vespucci-Trees-botanic.xml:1319(item:name|group:Fagus|preset:Fagus_sylvatica)
+#: Vespucci-Trees-botanic.xml:2111(item:name|group:Fagus|preset:Fagus_sylvatica)
 msgid "Fagus sylvatica"
 msgstr "Rotbuche"
 
-#: Vespucci-Trees-botanic.xml:1283(item:name|group:Fagus|preset:Fagus_sylvatica_Pendula) Vespucci-Trees-botanic.xml:2055(item:name|group:Fagus|preset:Fagus_sylvatica_Pendula)
+#: Vespucci-Trees-botanic.xml:1327(item:name|group:Fagus|preset:Fagus_sylvatica_Pendula)
+#: Vespucci-Trees-botanic.xml:2119(item:name|group:Fagus|preset:Fagus_sylvatica_Pendula)
 msgid "Fagus sylvatica Pendula"
 msgstr "Hänge-Buche"
 
-#: Vespucci-Trees-botanic.xml:1279(item:name|group:Fagus|preset:Fagus_sylvatica_Purpurea) Vespucci-Trees-botanic.xml:2051(item:name|group:Fagus|preset:Fagus_sylvatica_Purpurea)
+#: Vespucci-Trees-botanic.xml:1323(item:name|group:Fagus|preset:Fagus_sylvatica_Purpurea)
+#: Vespucci-Trees-botanic.xml:2115(item:name|group:Fagus|preset:Fagus_sylvatica_Purpurea)
 msgid "Fagus sylvatica Purpurea"
 msgstr "Blutbuche"
 
-#: Vespucci-Trees-botanic.xml:1289(group:name|group:Fraxinus) Vespucci-Trees-botanic.xml:2061(group:name|group:Fraxinus)
+#: Vespucci-Trees-botanic.xml:1333(group:name|group:Fraxinus)
+#: Vespucci-Trees-botanic.xml:2125(group:name|group:Fraxinus)
 msgid "Fraxinus"
 msgstr "Eschen"
 
-#: Vespucci-Trees-botanic.xml:1295(item:name|group:Fraxinus|preset:Fraxinus_excelsior) Vespucci-Trees-botanic.xml:2067(item:name|group:Fraxinus|preset:Fraxinus_excelsior)
+#: Vespucci-Trees-botanic.xml:1339(item:name|group:Fraxinus|preset:Fraxinus_excelsior)
+#: Vespucci-Trees-botanic.xml:2131(item:name|group:Fraxinus|preset:Fraxinus_excelsior)
 msgid "Fraxinus excelsior"
 msgstr "Gemeine Esche"
 
-#: Vespucci-Trees-botanic.xml:1290(item:name|group:Fraxinus|preset:Fraxinus_n.sp.) Vespucci-Trees-botanic.xml:2062(item:name|group:Fraxinus|preset:Fraxinus_n.sp.)
+#: Vespucci-Trees-botanic.xml:1334(item:name|group:Fraxinus|preset:Fraxinus_n.sp.)
+#: Vespucci-Trees-botanic.xml:2126(item:name|group:Fraxinus|preset:Fraxinus_n.sp.)
 msgid "Fraxinus n.sp."
 msgstr "unspezifizierte Esche"
 
-#: Vespucci-Trees-botanic.xml:1299(item:name|group:Fraxinus|preset:Fraxinus_ornus) Vespucci-Trees-botanic.xml:2071(item:name|group:Fraxinus|preset:Fraxinus_ornus)
+#: Vespucci-Trees-botanic.xml:1343(item:name|group:Fraxinus|preset:Fraxinus_ornus)
+#: Vespucci-Trees-botanic.xml:2135(item:name|group:Fraxinus|preset:Fraxinus_ornus)
 msgid "Fraxinus ornus"
 msgstr "Blumen-Esche"
 
-#: Vespucci-Trees-botanic.xml:1472(group:name|group:Fruit_trees) Vespucci-Trees-botanic.xml:2275(group:name|group:Fruit_trees)
+#: Vespucci-Trees-botanic.xml:1536(group:name|group:Fruit_trees)
+#: Vespucci-Trees-botanic.xml:2359(group:name|group:Fruit_trees)
 msgid "Fruit trees"
 msgstr "Obstbäume"
 
-#: Vespucci-Trees-botanic.xml:1007(text:text|group:Coniferales|preset:Coniferales_n.sp.|key:genus) Vespucci-Trees-botanic.xml:1154(text:text|group:Broad-leaved_trees|preset:Broad-leaved_tree_n.sp.|key:genus) Vespucci-Trees-botanic.xml:1711(text:text|group:Tree_rows|preset:Tree_row|key:genus) Vespucci-Trees-botanic.xml:1721(text:text|group:Coniferales|preset:Coniferales_n.sp.|key:genus) Vespucci-Trees-botanic.xml:1867(text:text|group:Broad-leaved_trees|preset:Broad-leaved_tree_n.sp.|key:genus) Vespucci-Trees-botanic.xml:997(text:text|group:Trees|preset:Tree|key:genus)
+#: Vespucci-Trees-botanic.xml:1033(text:text|group:Trees|preset:Tree|key:genus)
+#: Vespucci-Trees-botanic.xml:1043(text:text|group:Coniferales|preset:Coniferales_n.sp.|key:genus)
+#: Vespucci-Trees-botanic.xml:1198(text:text|group:Broad-leaved_trees|preset:Broad-leaved_tree_n.sp.|key:genus)
+#: Vespucci-Trees-botanic.xml:1771(text:text|group:Tree_rows|preset:Tree_row|key:genus)
+#: Vespucci-Trees-botanic.xml:1781(text:text|group:Coniferales|preset:Coniferales_n.sp.|key:genus)
+#: Vespucci-Trees-botanic.xml:1935(text:text|group:Broad-leaved_trees|preset:Broad-leaved_tree_n.sp.|key:genus)
 msgid "Genus"
 msgstr "Genus"
 
-#: Vespucci-Trees-botanic.xml:1651(item:name|preset:Ginkgo_biloba) Vespucci-Trees-botanic.xml:2364(item:name|preset:Ginkgo_biloba)
+#: Vespucci-Trees-botanic.xml:1711(item:name|preset:Ginkgo_biloba)
+#: Vespucci-Trees-botanic.xml:2448(item:name|preset:Ginkgo_biloba)
 msgid "Ginkgo biloba"
 msgstr "Ginkgo"
 
-#: Vespucci-Trees-botanic.xml:1656(item:name|preset:Gleditsia_triacanthos) Vespucci-Trees-botanic.xml:2369(item:name|preset:Gleditsia_triacanthos)
+#: Vespucci-Trees-botanic.xml:1716(item:name|preset:Gleditsia_triacanthos)
+#: Vespucci-Trees-botanic.xml:2453(item:name|preset:Gleditsia_triacanthos)
 msgid "Gleditsia triacanthos"
 msgstr "Amerikanische Gleditschie"
 
-#: Vespucci-Trees-botanic.xml:12(text:text|key:height) Vespucci-Trees-botanic.xml:28(text:text|key:height)
+#: Vespucci-Trees-botanic.xml:12(text:text|key:height)
+#: Vespucci-Trees-botanic.xml:28(text:text|key:height)
 msgid "Height (meters)"
 msgstr "Höhe (Meter)"
 
-#: Vespucci-Trees-botanic.xml:1691(item:name|preset:Ilex_aquifolium) Vespucci-Trees-botanic.xml:2404(item:name|preset:Ilex_aquifolium)
+#: Vespucci-Trees-botanic.xml:1751(item:name|preset:Ilex_aquifolium)
+#: Vespucci-Trees-botanic.xml:2488(item:name|preset:Ilex_aquifolium)
 msgid "Ilex aquifolium"
 msgstr "Europäische Stechpalme"
 
-#: Vespucci-Trees-botanic.xml:1551(group:name|group:Juglans) Vespucci-Trees-botanic.xml:2077(group:name|group:Juglans)
+#: Vespucci-Trees-botanic.xml:1615(group:name|group:Juglans)
+#: Vespucci-Trees-botanic.xml:2141(group:name|group:Juglans)
 msgid "Juglans"
 msgstr "Walnüsse"
 
-#: Vespucci-Trees-botanic.xml:1552(item:name|group:Juglans|preset:Juglans_nigra) Vespucci-Trees-botanic.xml:2078(item:name|group:Juglans|preset:Juglans_nigra)
+#: Vespucci-Trees-botanic.xml:1616(item:name|group:Juglans|preset:Juglans_nigra)
+#: Vespucci-Trees-botanic.xml:2142(item:name|group:Juglans|preset:Juglans_nigra)
 msgid "Juglans nigra"
 msgstr "Schwarznuss"
 
-#: Vespucci-Trees-botanic.xml:1556(item:name|group:Juglans|preset:Juglans_regia) Vespucci-Trees-botanic.xml:2082(item:name|group:Juglans|preset:Juglans_regia)
+#: Vespucci-Trees-botanic.xml:1620(item:name|group:Juglans|preset:Juglans_regia)
+#: Vespucci-Trees-botanic.xml:2146(item:name|group:Juglans|preset:Juglans_regia)
 msgid "Juglans regia"
 msgstr "Walnuss"
 
-#: Vespucci-Trees-botanic.xml:1142(item:name|preset:Juniperus_communis) Vespucci-Trees-botanic.xml:1856(item:name|preset:Juniperus_communis)
+#: Vespucci-Trees-botanic.xml:1182(item:name|preset:Juniperus_communis)
+#: Vespucci-Trees-botanic.xml:1920(item:name|preset:Juniperus_communis)
 msgid "Juniperus communis"
 msgstr "Gemeiner Wacholder"
 
-#: Vespucci-Trees-botanic.xml:1626(item:name|preset:Koelreuteria_paniculata) Vespucci-Trees-botanic.xml:2339(item:name|preset:Koelreuteria_paniculata)
+#: Vespucci-Trees-botanic.xml:1686(item:name|preset:Koelreuteria_paniculata)
+#: Vespucci-Trees-botanic.xml:2423(item:name|preset:Koelreuteria_paniculata)
 msgid "Koelreuteria paniculata"
 msgstr "Blasenbaum (Blasenesche)"
 
-#: Vespucci-Trees-botanic.xml:1138(item:name|preset:Larix_decidua) Vespucci-Trees-botanic.xml:1852(item:name|preset:Larix_decidua)
+#: Vespucci-Trees-botanic.xml:1178(item:name|preset:Larix_decidua)
+#: Vespucci-Trees-botanic.xml:1916(item:name|preset:Larix_decidua)
 msgid "Larix decidua"
 msgstr "Europäische Lärche"
 
@@ -373,51 +462,63 @@ msgstr "Blatttyp"
 msgid "Leafless"
 msgstr "Blattlos"
 
-#: Vespucci-Trees-botanic.xml:1621(item:name|preset:Liquidambar_styraciflua) Vespucci-Trees-botanic.xml:2334(item:name|preset:Liquidambar_styraciflua)
+#: Vespucci-Trees-botanic.xml:1681(item:name|preset:Liquidambar_styraciflua)
+#: Vespucci-Trees-botanic.xml:2418(item:name|preset:Liquidambar_styraciflua)
 msgid "Liquidambar styraciflua"
 msgstr "Amerikanischer Amberbaum"
 
-#: Vespucci-Trees-botanic.xml:1636(item:name|preset:Liriodendron_tulipifera) Vespucci-Trees-botanic.xml:2349(item:name|preset:Liriodendron_tulipifera)
+#: Vespucci-Trees-botanic.xml:1696(item:name|preset:Liriodendron_tulipifera)
+#: Vespucci-Trees-botanic.xml:2433(item:name|preset:Liriodendron_tulipifera)
 msgid "Liriodendron tulipifera"
 msgstr "Tulpenbaum"
 
-#: Vespucci-Trees-botanic.xml:1531(group:name|group:Magnolia) Vespucci-Trees-botanic.xml:2088(group:name|group:Magnolia)
+#: Vespucci-Trees-botanic.xml:1595(group:name|group:Magnolia)
+#: Vespucci-Trees-botanic.xml:2152(group:name|group:Magnolia)
 msgid "Magnolia"
 msgstr "Magnolien"
 
-#: Vespucci-Trees-botanic.xml:1537(item:name|group:Magnolia|preset:Magnolia_fraseri) Vespucci-Trees-botanic.xml:2094(item:name|group:Magnolia|preset:Magnolia_fraseri)
+#: Vespucci-Trees-botanic.xml:1601(item:name|group:Magnolia|preset:Magnolia_fraseri)
+#: Vespucci-Trees-botanic.xml:2158(item:name|group:Magnolia|preset:Magnolia_fraseri)
 msgid "Magnolia fraseri"
 msgstr "Berg-Magnolie"
 
-#: Vespucci-Trees-botanic.xml:1541(item:name|group:Magnolia|preset:Magnolia_grandiflora) Vespucci-Trees-botanic.xml:2098(item:name|group:Magnolia|preset:Magnolia_grandiflora)
+#: Vespucci-Trees-botanic.xml:1605(item:name|group:Magnolia|preset:Magnolia_grandiflora)
+#: Vespucci-Trees-botanic.xml:2162(item:name|group:Magnolia|preset:Magnolia_grandiflora)
 msgid "Magnolia grandiflora"
 msgstr "Immergrüne Magnolie"
 
-#: Vespucci-Trees-botanic.xml:1532(item:name|group:Magnolia|preset:Magnolia_n.sp.) Vespucci-Trees-botanic.xml:2089(item:name|group:Magnolia|preset:Magnolia_n.sp.)
+#: Vespucci-Trees-botanic.xml:1596(item:name|group:Magnolia|preset:Magnolia_n.sp.)
+#: Vespucci-Trees-botanic.xml:2153(item:name|group:Magnolia|preset:Magnolia_n.sp.)
 msgid "Magnolia n.sp."
 msgstr "unspezifizierte Magnolie"
 
-#: Vespucci-Trees-botanic.xml:1545(item:name|group:Magnolia|preset:Magnolia_×_soulangeana) Vespucci-Trees-botanic.xml:2102(item:name|group:Magnolia|preset:Magnolia_×_soulangeana)
+#: Vespucci-Trees-botanic.xml:1609(item:name|group:Magnolia|preset:Magnolia_×_soulangeana)
+#: Vespucci-Trees-botanic.xml:2166(item:name|group:Magnolia|preset:Magnolia_×_soulangeana)
 msgid "Magnolia × soulangeana"
 msgstr "Tulpen-Magnolie"
 
-#: Vespucci-Trees-botanic.xml:1477(item:name|group:Fruit_trees|preset:Malus_domestica) Vespucci-Trees-botanic.xml:2280(item:name|group:Fruit_trees|preset:Malus_domestica)
+#: Vespucci-Trees-botanic.xml:1541(item:name|group:Fruit_trees|preset:Malus_domestica)
+#: Vespucci-Trees-botanic.xml:2364(item:name|group:Fruit_trees|preset:Malus_domestica)
 msgid "Malus domestica"
 msgstr "Apfelbaum"
 
-#: Vespucci-Trees-botanic.xml:1473(item:name|group:Fruit_trees|preset:Malus_n.sp.) Vespucci-Trees-botanic.xml:2276(item:name|group:Fruit_trees|preset:Malus_n.sp.)
+#: Vespucci-Trees-botanic.xml:1537(item:name|group:Fruit_trees|preset:Malus_n.sp.)
+#: Vespucci-Trees-botanic.xml:2360(item:name|group:Fruit_trees|preset:Malus_n.sp.)
 msgid "Malus n.sp."
 msgstr "unspezifizierter Apfelbaum"
 
-#: Vespucci-Trees-botanic.xml:1481(item:name|group:Fruit_trees|preset:Malus_sylvestris) Vespucci-Trees-botanic.xml:2284(item:name|group:Fruit_trees|preset:Malus_sylvestris)
+#: Vespucci-Trees-botanic.xml:1545(item:name|group:Fruit_trees|preset:Malus_sylvestris)
+#: Vespucci-Trees-botanic.xml:2368(item:name|group:Fruit_trees|preset:Malus_sylvestris)
 msgid "Malus sylvestris"
 msgstr "Holzapfel"
 
-#: Vespucci-Trees-botanic.xml:1060(item:name|group:Sequoioideae|preset:Metasequoia_glyptostroboides) Vespucci-Trees-botanic.xml:1818(item:name|group:Sequoioideae|preset:Metasequoia_glyptostroboides)
+#: Vespucci-Trees-botanic.xml:1100(item:name|group:Sequoioideae|preset:Metasequoia_glyptostroboides)
+#: Vespucci-Trees-botanic.xml:1882(item:name|group:Sequoioideae|preset:Metasequoia_glyptostroboides)
 msgid "Metasequoia glyptostroboides"
 msgstr "Urweltmammutbaum"
 
-#: Vespucci-Trees-botanic.xml:11(text:text|key:name) Vespucci-Trees-botanic.xml:27(text:text|key:name)
+#: Vespucci-Trees-botanic.xml:11(text:text|key:name)
+#: Vespucci-Trees-botanic.xml:27(text:text|key:name)
 msgid "Name"
 msgstr "Name"
 
@@ -425,231 +526,288 @@ msgstr "Name"
 msgid "Needleleaved"
 msgstr "Nadelblättrig"
 
-#: Vespucci-Trees-botanic.xml:1521(item:name|group:Fruit_trees|preset:Olea_europaea) Vespucci-Trees-botanic.xml:2324(item:name|group:Fruit_trees|preset:Olea_europaea)
+#: Vespucci-Trees-botanic.xml:1585(item:name|group:Fruit_trees|preset:Olea_europaea)
+#: Vespucci-Trees-botanic.xml:2408(item:name|group:Fruit_trees|preset:Olea_europaea)
 msgid "Olea europaea"
 msgstr "Olivenbaum"
 
-#: Vespucci-Trees-botanic.xml:1676(item:name|preset:Ostrya_carpinifolia) Vespucci-Trees-botanic.xml:2389(item:name|preset:Ostrya_carpinifolia)
+#: Vespucci-Trees-botanic.xml:1736(item:name|preset:Ostrya_carpinifolia)
+#: Vespucci-Trees-botanic.xml:2473(item:name|preset:Ostrya_carpinifolia)
 msgid "Ostrya carpinifolia"
 msgstr "Gemeine Hopfenbuche"
 
-#: Vespucci-Trees-botanic.xml:1696(item:name|preset:Parrotia_persica) Vespucci-Trees-botanic.xml:2409(item:name|preset:Parrotia_persica)
+#: Vespucci-Trees-botanic.xml:1756(item:name|preset:Parrotia_persica)
+#: Vespucci-Trees-botanic.xml:2493(item:name|preset:Parrotia_persica)
 msgid "Parrotia persica"
 msgstr "Eisenbaum"
 
-#: Vespucci-Trees-botanic.xml:1114(group:name|group:Picea) Vespucci-Trees-botanic.xml:1769(group:name|group:Picea)
+#: Vespucci-Trees-botanic.xml:1154(group:name|group:Picea)
+#: Vespucci-Trees-botanic.xml:1829(group:name|group:Picea)
 msgid "Picea"
 msgstr "Fichten"
 
-#: Vespucci-Trees-botanic.xml:1120(item:name|group:Picea|preset:Picea_abies) Vespucci-Trees-botanic.xml:1775(item:name|group:Picea|preset:Picea_abies)
+#: Vespucci-Trees-botanic.xml:1160(item:name|group:Picea|preset:Picea_abies)
+#: Vespucci-Trees-botanic.xml:1835(item:name|group:Picea|preset:Picea_abies)
 msgid "Picea abies"
 msgstr "Gemeine Fichte"
 
-#: Vespucci-Trees-botanic.xml:1115(item:name|group:Picea|preset:Picea_n.sp.) Vespucci-Trees-botanic.xml:1770(item:name|group:Picea|preset:Picea_n.sp.)
+#: Vespucci-Trees-botanic.xml:1155(item:name|group:Picea|preset:Picea_n.sp.)
+#: Vespucci-Trees-botanic.xml:1830(item:name|group:Picea|preset:Picea_n.sp.)
 msgid "Picea n.sp."
 msgstr "unspezifizierte Fichte"
 
-#: Vespucci-Trees-botanic.xml:1124(item:name|group:Picea|preset:Picea_pungens) Vespucci-Trees-botanic.xml:1779(item:name|group:Picea|preset:Picea_pungens)
+#: Vespucci-Trees-botanic.xml:1164(item:name|group:Picea|preset:Picea_pungens)
+#: Vespucci-Trees-botanic.xml:1839(item:name|group:Picea|preset:Picea_pungens)
 msgid "Picea pungens"
 msgstr "Blau-Fichte"
 
-#: Vespucci-Trees-botanic.xml:1011(group:name|group:Pinus) Vespucci-Trees-botanic.xml:1785(group:name|group:Pinus)
+#: Vespucci-Trees-botanic.xml:1047(group:name|group:Pinus)
+#: Vespucci-Trees-botanic.xml:1845(group:name|group:Pinus)
 msgid "Pinus"
 msgstr "Kiefern"
 
-#: Vespucci-Trees-botanic.xml:1033(item:name|group:Pinus|preset:Pinus_wallichiana) Vespucci-Trees-botanic.xml:1807(item:name|group:Pinus|preset:Pinus_wallichiana)
-msgid "Pinus wallichiana"
-msgstr "Tränen-Kiefer"
-
-#: Vespucci-Trees-botanic.xml:1033(item:name|group:Pinus|preset:Pinus_cembra) Vespucci-Trees-botanic.xml:1807(item:name|group:Pinus|preset:Pinus_cembra)
+#: Vespucci-Trees-botanic.xml:1069(item:name|group:Pinus|preset:Pinus_cembra)
+#: Vespucci-Trees-botanic.xml:1867(item:name|group:Pinus|preset:Pinus_cembra)
 msgid "Pinus cembra"
 msgstr "Zirbelkiefer"
 
-#: Vespucci-Trees-botanic.xml:1021(item:name|group:Pinus|preset:Pinus_mugo) Vespucci-Trees-botanic.xml:1795(item:name|group:Pinus|preset:Pinus_mugo)
+#: Vespucci-Trees-botanic.xml:1057(item:name|group:Pinus|preset:Pinus_mugo)
+#: Vespucci-Trees-botanic.xml:1855(item:name|group:Pinus|preset:Pinus_mugo)
 msgid "Pinus mugo"
 msgstr "Bergkiefer"
 
-#: Vespucci-Trees-botanic.xml:1012(item:name|group:Pinus|preset:Pinus_n.sp.) Vespucci-Trees-botanic.xml:1786(item:name|group:Pinus|preset:Pinus_n.sp.)
+#: Vespucci-Trees-botanic.xml:1048(item:name|group:Pinus|preset:Pinus_n.sp.)
+#: Vespucci-Trees-botanic.xml:1846(item:name|group:Pinus|preset:Pinus_n.sp.)
 msgid "Pinus n.sp."
 msgstr "unspezifizierte Kiefer"
 
-#: Vespucci-Trees-botanic.xml:1025(item:name|group:Pinus|preset:Pinus_nigra) Vespucci-Trees-botanic.xml:1799(item:name|group:Pinus|preset:Pinus_nigra)
+#: Vespucci-Trees-botanic.xml:1061(item:name|group:Pinus|preset:Pinus_nigra)
+#: Vespucci-Trees-botanic.xml:1859(item:name|group:Pinus|preset:Pinus_nigra)
 msgid "Pinus nigra"
 msgstr "Schwarzkiefer"
 
-#: Vespucci-Trees-botanic.xml:1029(item:name|group:Pinus|preset:Pinus_strobus) Vespucci-Trees-botanic.xml:1803(item:name|group:Pinus|preset:Pinus_strobus)
+#: Vespucci-Trees-botanic.xml:1065(item:name|group:Pinus|preset:Pinus_strobus)
+#: Vespucci-Trees-botanic.xml:1863(item:name|group:Pinus|preset:Pinus_strobus)
 msgid "Pinus strobus"
 msgstr "Weymouth-Kiefer"
 
-#: Vespucci-Trees-botanic.xml:1017(item:name|group:Pinus|preset:Pinus_sylvestris) Vespucci-Trees-botanic.xml:1791(item:name|group:Pinus|preset:Pinus_sylvestris)
+#: Vespucci-Trees-botanic.xml:1053(item:name|group:Pinus|preset:Pinus_sylvestris)
+#: Vespucci-Trees-botanic.xml:1851(item:name|group:Pinus|preset:Pinus_sylvestris)
 msgid "Pinus sylvestris"
 msgstr "Gemeine Kiefer"
 
-#: Vespucci-Trees-botanic.xml:1393(group:name|group:Platanus) Vespucci-Trees-botanic.xml:2108(group:name|group:Platanus)
+#: Vespucci-Trees-botanic.xml:1073(item:name|group:Pinus|preset:Pinus_wallichiana)
+#: Vespucci-Trees-botanic.xml:1871(item:name|group:Pinus|preset:Pinus_wallichiana)
+msgid "Pinus wallichiana"
+msgstr "Tränen-Kiefer"
+
+#: Vespucci-Trees-botanic.xml:1441(group:name|group:Platanus)
+#: Vespucci-Trees-botanic.xml:2172(group:name|group:Platanus)
 msgid "Platanus"
 msgstr "Platanen"
 
-#: Vespucci-Trees-botanic.xml:1394(item:name|group:Platanus|preset:Platanus_n.sp.) Vespucci-Trees-botanic.xml:2109(item:name|group:Platanus|preset:Platanus_n.sp.)
+#: Vespucci-Trees-botanic.xml:1442(item:name|group:Platanus|preset:Platanus_n.sp.)
+#: Vespucci-Trees-botanic.xml:2173(item:name|group:Platanus|preset:Platanus_n.sp.)
 msgid "Platanus n.sp."
 msgstr "unspezifizierte Platane"
 
-#: Vespucci-Trees-botanic.xml:1403(item:name|group:Platanus|preset:Platanus_orientalis) Vespucci-Trees-botanic.xml:2118(item:name|group:Platanus|preset:Platanus_orientalis)
+#: Vespucci-Trees-botanic.xml:1451(item:name|group:Platanus|preset:Platanus_orientalis)
+#: Vespucci-Trees-botanic.xml:2182(item:name|group:Platanus|preset:Platanus_orientalis)
 msgid "Platanus orientalis"
 msgstr "Morgenländische Platane"
 
-#: Vespucci-Trees-botanic.xml:1399(item:name|group:Platanus|preset:Platanus_×_hispanica) Vespucci-Trees-botanic.xml:2114(item:name|group:Platanus|preset:Platanus_×_hispanica)
+#: Vespucci-Trees-botanic.xml:1447(item:name|group:Platanus|preset:Platanus_×_hispanica)
+#: Vespucci-Trees-botanic.xml:2178(item:name|group:Platanus|preset:Platanus_×_hispanica)
 msgid "Platanus × hispanica"
 msgstr "Ahornblättrige Platane"
 
-#: Vespucci-Trees-botanic.xml:1369(group:name|group:Populus) Vespucci-Trees-botanic.xml:2124(group:name|group:Populus)
+#: Vespucci-Trees-botanic.xml:1417(group:name|group:Populus)
+#: Vespucci-Trees-botanic.xml:2188(group:name|group:Populus)
 msgid "Populus"
 msgstr "Pappeln"
 
-#: Vespucci-Trees-botanic.xml:1383(item:name|group:Populus|preset:Populus_alba) Vespucci-Trees-botanic.xml:2138(item:name|group:Populus|preset:Populus_alba)
+#: Vespucci-Trees-botanic.xml:1431(item:name|group:Populus|preset:Populus_alba)
+#: Vespucci-Trees-botanic.xml:2202(item:name|group:Populus|preset:Populus_alba)
 msgid "Populus alba"
 msgstr "Silber-Pappel"
 
-#: Vespucci-Trees-botanic.xml:1370(item:name|group:Populus|preset:Populus_n.sp.) Vespucci-Trees-botanic.xml:2125(item:name|group:Populus|preset:Populus_n.sp.)
+#: Vespucci-Trees-botanic.xml:1418(item:name|group:Populus|preset:Populus_n.sp.)
+#: Vespucci-Trees-botanic.xml:2189(item:name|group:Populus|preset:Populus_n.sp.)
 msgid "Populus n.sp."
 msgstr "unspezifizierte Pappel"
 
-#: Vespucci-Trees-botanic.xml:1379(item:name|group:Populus|preset:Populus_nigra) Vespucci-Trees-botanic.xml:2134(item:name|group:Populus|preset:Populus_nigra)
+#: Vespucci-Trees-botanic.xml:1427(item:name|group:Populus|preset:Populus_nigra)
+#: Vespucci-Trees-botanic.xml:2198(item:name|group:Populus|preset:Populus_nigra)
 msgid "Populus nigra"
 msgstr "Schwarz-Pappel"
 
-#: Vespucci-Trees-botanic.xml:1375(item:name|group:Populus|preset:Populus_tremula) Vespucci-Trees-botanic.xml:2130(item:name|group:Populus|preset:Populus_tremula)
+#: Vespucci-Trees-botanic.xml:1423(item:name|group:Populus|preset:Populus_tremula)
+#: Vespucci-Trees-botanic.xml:2194(item:name|group:Populus|preset:Populus_tremula)
 msgid "Populus tremula"
 msgstr "Espe"
 
-#: Vespucci-Trees-botanic.xml:1387(item:name|group:Populus|preset:Populus_×_canadensis) Vespucci-Trees-botanic.xml:2142(item:name|group:Populus|preset:Populus_×_canadensis)
+#: Vespucci-Trees-botanic.xml:1435(item:name|group:Populus|preset:Populus_×_canadensis)
+#: Vespucci-Trees-botanic.xml:2206(item:name|group:Populus|preset:Populus_×_canadensis)
 msgid "Populus × canadensis"
 msgstr "Kanadische Pappel"
 
-#: Vespucci-Trees-botanic.xml:1501(item:name|group:Fruit_trees|preset:Prunus_armeniaca) Vespucci-Trees-botanic.xml:2304(item:name|group:Fruit_trees|preset:Prunus_armeniaca)
+#: Vespucci-Trees-botanic.xml:1565(item:name|group:Fruit_trees|preset:Prunus_armeniaca)
+#: Vespucci-Trees-botanic.xml:2388(item:name|group:Fruit_trees|preset:Prunus_armeniaca)
 msgid "Prunus armeniaca"
 msgstr "Aprikose (Marille"
 
-#: Vespucci-Trees-botanic.xml:1505(item:name|group:Fruit_trees|preset:Prunus_avium) Vespucci-Trees-botanic.xml:2308(item:name|group:Fruit_trees|preset:Prunus_avium)
+#: Vespucci-Trees-botanic.xml:1569(item:name|group:Fruit_trees|preset:Prunus_avium)
+#: Vespucci-Trees-botanic.xml:2392(item:name|group:Fruit_trees|preset:Prunus_avium)
 msgid "Prunus avium"
 msgstr "Vogel-Kirsche (Süßkirsche)"
 
-#: Vespucci-Trees-botanic.xml:1509(item:name|group:Fruit_trees|preset:Prunus_cerasus) Vespucci-Trees-botanic.xml:2312(item:name|group:Fruit_trees|preset:Prunus_cerasus)
+#: Vespucci-Trees-botanic.xml:1573(item:name|group:Fruit_trees|preset:Prunus_cerasus)
+#: Vespucci-Trees-botanic.xml:2396(item:name|group:Fruit_trees|preset:Prunus_cerasus)
 msgid "Prunus cerasus"
 msgstr "Sauerkirsche"
 
-#: Vespucci-Trees-botanic.xml:1493(item:name|group:Fruit_trees|preset:Prunus_domestica) Vespucci-Trees-botanic.xml:2296(item:name|group:Fruit_trees|preset:Prunus_domestica)
+#: Vespucci-Trees-botanic.xml:1557(item:name|group:Fruit_trees|preset:Prunus_domestica)
+#: Vespucci-Trees-botanic.xml:2380(item:name|group:Fruit_trees|preset:Prunus_domestica)
 msgid "Prunus domestica"
 msgstr "Kultur-Pflaume"
 
-#: Vespucci-Trees-botanic.xml:1497(item:name|group:Fruit_trees|preset:Prunus_domestica_syriaca) Vespucci-Trees-botanic.xml:2300(item:name|group:Fruit_trees|preset:Prunus_domestica_syriaca)
+#: Vespucci-Trees-botanic.xml:1561(item:name|group:Fruit_trees|preset:Prunus_domestica_syriaca)
+#: Vespucci-Trees-botanic.xml:2384(item:name|group:Fruit_trees|preset:Prunus_domestica_syriaca)
 msgid "Prunus domestica syriaca"
 msgstr "Mirabelle (Gelbe Zwetschge)"
 
-#: Vespucci-Trees-botanic.xml:1513(item:name|group:Fruit_trees|preset:Prunus_padus) Vespucci-Trees-botanic.xml:2316(item:name|group:Fruit_trees|preset:Prunus_padus)
+#: Vespucci-Trees-botanic.xml:1577(item:name|group:Fruit_trees|preset:Prunus_padus)
+#: Vespucci-Trees-botanic.xml:2400(item:name|group:Fruit_trees|preset:Prunus_padus)
 msgid "Prunus padus"
 msgstr "Gewöhnliche Traubenkirsch"
 
-#: Vespucci-Trees-botanic.xml:1525(item:name|group:Fruit_trees|preset:Prunus_serrulata) Vespucci-Trees-botanic.xml:2328(item:name|group:Fruit_trees|preset:Prunus_serrulata)
+#: Vespucci-Trees-botanic.xml:1589(item:name|group:Fruit_trees|preset:Prunus_serrulata)
+#: Vespucci-Trees-botanic.xml:2412(item:name|group:Fruit_trees|preset:Prunus_serrulata)
 msgid "Prunus serrulata"
 msgstr "Japanische Blütenkirsche"
 
-#: Vespucci-Trees-botanic.xml:1130(item:name|preset:Pseudotsuga_menziesii) Vespucci-Trees-botanic.xml:1844(item:name|preset:Pseudotsuga_menziesii)
+#: Vespucci-Trees-botanic.xml:1170(item:name|preset:Pseudotsuga_menziesii)
+#: Vespucci-Trees-botanic.xml:1908(item:name|preset:Pseudotsuga_menziesii)
 msgid "Pseudotsuga menziesii"
 msgstr "Gewöhnliche Douglasie"
 
-#: Vespucci-Trees-botanic.xml:1681(item:name|preset:Pterocarya_fraxinifolia) Vespucci-Trees-botanic.xml:2394(item:name|preset:Pterocarya_fraxinifolia)
+#: Vespucci-Trees-botanic.xml:1741(item:name|preset:Pterocarya_fraxinifolia)
+#: Vespucci-Trees-botanic.xml:2478(item:name|preset:Pterocarya_fraxinifolia)
 msgid "Pterocarya fraxinifolia"
 msgstr "Kaukasische Flügelnuss"
 
-#: Vespucci-Trees-botanic.xml:1485(item:name|group:Fruit_trees|preset:Pyrus_communis) Vespucci-Trees-botanic.xml:2288(item:name|group:Fruit_trees|preset:Pyrus_communis)
+#: Vespucci-Trees-botanic.xml:1549(item:name|group:Fruit_trees|preset:Pyrus_communis)
+#: Vespucci-Trees-botanic.xml:2372(item:name|group:Fruit_trees|preset:Pyrus_communis)
 msgid "Pyrus communis"
 msgstr "Birnbaum"
 
-#: Vespucci-Trees-botanic.xml:1489(item:name|group:Fruit_trees|preset:Pyrus_pyraster) Vespucci-Trees-botanic.xml:2292(item:name|group:Fruit_trees|preset:Pyrus_pyraster)
+#: Vespucci-Trees-botanic.xml:1553(item:name|group:Fruit_trees|preset:Pyrus_pyraster)
+#: Vespucci-Trees-botanic.xml:2376(item:name|group:Fruit_trees|preset:Pyrus_pyraster)
 msgid "Pyrus pyraster"
 msgstr "Wildbirne"
 
-#: Vespucci-Trees-botanic.xml:1333(group:name|group:Quercus) Vespucci-Trees-botanic.xml:2148(group:name|group:Quercus)
+#: Vespucci-Trees-botanic.xml:1377(group:name|group:Quercus)
+#: Vespucci-Trees-botanic.xml:2212(group:name|group:Quercus)
 msgid "Quercus"
 msgstr "Eichen"
 
-#: Vespucci-Trees-botanic.xml:1343(item:name|group:Quercus|preset:Quercus_palustris) Vespucci-Trees-botanic.xml:2158(item:name|group:Quercus|preset:Quercus_palustris)
-msgid "Quercus palustris"
-msgstr "Sumpf-Eiche"
-
-#: Vespucci-Trees-botanic.xml:1363(item:name|group:Quercus|preset:Quercus_cerris) Vespucci-Trees-botanic.xml:2178(item:name|group:Quercus|preset:Quercus_cerris)
+#: Vespucci-Trees-botanic.xml:1411(item:name|group:Quercus|preset:Quercus_cerris)
+#: Vespucci-Trees-botanic.xml:2246(item:name|group:Quercus|preset:Quercus_cerris)
 msgid "Quercus cerris"
 msgstr "Zerreiche"
 
-#: Vespucci-Trees-botanic.xml:1355(item:name|group:Quercus|preset:Quercus_ilex) Vespucci-Trees-botanic.xml:2170(item:name|group:Quercus|preset:Quercus_ilex)
+#: Vespucci-Trees-botanic.xml:1403(item:name|group:Quercus|preset:Quercus_ilex)
+#: Vespucci-Trees-botanic.xml:2238(item:name|group:Quercus|preset:Quercus_ilex)
 msgid "Quercus ilex"
 msgstr "Steineiche"
 
-#: Vespucci-Trees-botanic.xml:1334(item:name|group:Quercus|preset:Quercus_n.sp.) Vespucci-Trees-botanic.xml:2149(item:name|group:Quercus|preset:Quercus_n.sp.)
+#: Vespucci-Trees-botanic.xml:1378(item:name|group:Quercus|preset:Quercus_n.sp.)
+#: Vespucci-Trees-botanic.xml:2213(item:name|group:Quercus|preset:Quercus_n.sp.)
 msgid "Quercus n.sp."
 msgstr "unspezifizierte Eiche"
 
-#: Vespucci-Trees-botanic.xml:1343(item:name|group:Quercus|preset:Quercus_petraea) Vespucci-Trees-botanic.xml:2158(item:name|group:Quercus|preset:Quercus_petraea)
+#: Vespucci-Trees-botanic.xml:1387(item:name|group:Quercus|preset:Quercus_palustris)
+#: Vespucci-Trees-botanic.xml:2222(item:name|group:Quercus|preset:Quercus_palustris)
+msgid "Quercus palustris"
+msgstr "Sumpf-Eiche"
+
+#: Vespucci-Trees-botanic.xml:1391(item:name|group:Quercus|preset:Quercus_petraea)
+#: Vespucci-Trees-botanic.xml:2226(item:name|group:Quercus|preset:Quercus_petraea)
 msgid "Quercus petraea"
 msgstr "Traubeneiche"
 
-#: Vespucci-Trees-botanic.xml:1351(item:name|group:Quercus|preset:Quercus_pubescens) Vespucci-Trees-botanic.xml:2166(item:name|group:Quercus|preset:Quercus_pubescens)
+#: Vespucci-Trees-botanic.xml:1399(item:name|group:Quercus|preset:Quercus_pubescens)
+#: Vespucci-Trees-botanic.xml:2234(item:name|group:Quercus|preset:Quercus_pubescens)
 msgid "Quercus pubescens"
 msgstr "Flaumeiche"
 
-#: Vespucci-Trees-botanic.xml:1339(item:name|group:Quercus|preset:Quercus_robur) Vespucci-Trees-botanic.xml:2154(item:name|group:Quercus|preset:Quercus_robur)
+#: Vespucci-Trees-botanic.xml:1383(item:name|group:Quercus|preset:Quercus_robur)
+#: Vespucci-Trees-botanic.xml:2218(item:name|group:Quercus|preset:Quercus_robur)
 msgid "Quercus robur"
 msgstr "Stieleiche"
 
-#: Vespucci-Trees-botanic.xml:1347(item:name|group:Quercus|preset:Quercus_rubra) Vespucci-Trees-botanic.xml:2162(item:name|group:Quercus|preset:Quercus_rubra)
+#: Vespucci-Trees-botanic.xml:1395(item:name|group:Quercus|preset:Quercus_rubra)
+#: Vespucci-Trees-botanic.xml:2230(item:name|group:Quercus|preset:Quercus_rubra)
 msgid "Quercus rubra"
 msgstr "Amerikanische Spitzeiche"
 
-#: Vespucci-Trees-botanic.xml:1359(item:name|group:Quercus|preset:Quercus_suber) Vespucci-Trees-botanic.xml:2174(item:name|group:Quercus|preset:Quercus_suber)
+#: Vespucci-Trees-botanic.xml:1407(item:name|group:Quercus|preset:Quercus_suber)
+#: Vespucci-Trees-botanic.xml:2242(item:name|group:Quercus|preset:Quercus_suber)
 msgid "Quercus suber"
 msgstr "Korkeiche"
 
-#: Vespucci-Trees-botanic.xml:1641(item:name|preset:Robinia_pseudoacacia) Vespucci-Trees-botanic.xml:2354(item:name|preset:Robinia_pseudoacacia)
+#: Vespucci-Trees-botanic.xml:1701(item:name|preset:Robinia_pseudoacacia)
+#: Vespucci-Trees-botanic.xml:2438(item:name|preset:Robinia_pseudoacacia)
 msgid "Robinia pseudoacacia"
 msgstr "Robinie"
 
-#: Vespucci-Trees-botanic.xml:1409(group:name|group:Salix) Vespucci-Trees-botanic.xml:2184(group:name|group:Salix)
+#: Vespucci-Trees-botanic.xml:1457(group:name|group:Salix)
+#: Vespucci-Trees-botanic.xml:2252(group:name|group:Salix)
 msgid "Salix"
 msgstr "Weiden"
 
-#: Vespucci-Trees-botanic.xml:1415(item:name|group:Salix|preset:Salix_alba) Vespucci-Trees-botanic.xml:2190(item:name|group:Salix|preset:Salix_alba)
+#: Vespucci-Trees-botanic.xml:1463(item:name|group:Salix|preset:Salix_alba)
+#: Vespucci-Trees-botanic.xml:2258(item:name|group:Salix|preset:Salix_alba)
 msgid "Salix alba"
 msgstr "Silber-Weide"
 
-#: Vespucci-Trees-botanic.xml:1419(item:name|group:Salix|preset:Salix_alba_Tristis) Vespucci-Trees-botanic.xml:2194(item:name|group:Salix|preset:Salix_alba_Tristis)
+#: Vespucci-Trees-botanic.xml:1467(item:name|group:Salix|preset:Salix_alba_Tristis)
+#: Vespucci-Trees-botanic.xml:2262(item:name|group:Salix|preset:Salix_alba_Tristis)
 msgid "Salix alba Tristis"
 msgstr "Tauerweide"
 
-#: Vespucci-Trees-botanic.xml:1423(item:name|group:Salix|preset:Salix_caprea) Vespucci-Trees-botanic.xml:2198(item:name|group:Salix|preset:Salix_caprea)
+#: Vespucci-Trees-botanic.xml:1471(item:name|group:Salix|preset:Salix_caprea)
+#: Vespucci-Trees-botanic.xml:2266(item:name|group:Salix|preset:Salix_caprea)
 msgid "Salix caprea"
 msgstr "Salweide"
 
-#: Vespucci-Trees-botanic.xml:699(item:name|group:Salix|preset:Salix_viminalis) Vespucci-Trees-botanic.xml:1445(item:name|group:Salix|preset:Salix_viminalis)
-msgid "Salix viminalis"
-msgstr "Korb-Weide"
-
-#: Vespucci-Trees-botanic.xml:705(item:name|group:Salix|preset:Salix_fragilis) Vespucci-Trees-botanic.xml:1449(item:name|group:Salix|preset:Salix_fragilis)
+#: Vespucci-Trees-botanic.xml:1479(item:name|group:Salix|preset:Salix_fragilis)
+#: Vespucci-Trees-botanic.xml:2274(item:name|group:Salix|preset:Salix_fragilis)
 msgid "Salix fragilis"
 msgstr "Bruch-Weide"
 
-#: Vespucci-Trees-botanic.xml:711(item:name|group:Salix|preset:Salix_pentandra) Vespucci-Trees-botanic.xml:1453(item:name|group:Salix|preset:Salix_pentandra)
-msgid "Salix pentandra"
-msgstr "Lorbeer-Weide"
-
-#: Vespucci-Trees-botanic.xml:717(item:name|group:Salix|preset:Salix_nigra) Vespucci-Trees-botanic.xml:1457(item:name|group:Salix|preset:Salix_nigra)
-msgid "Salix nigra"
-msgstr "Amerikanische Schwarz-Weide"
-
-#: Vespucci-Trees-botanic.xml:1410(item:name|group:Salix|preset:Salix_n.sp.) Vespucci-Trees-botanic.xml:2185(item:name|group:Salix|preset:Salix_n.sp.)
+#: Vespucci-Trees-botanic.xml:1458(item:name|group:Salix|preset:Salix_n.sp.)
+#: Vespucci-Trees-botanic.xml:2253(item:name|group:Salix|preset:Salix_n.sp.)
 msgid "Salix n.sp."
 msgstr "unspezifizierte Weide"
 
-#: Vespucci-Trees-botanic.xml:1646(item:name|preset:Sambucus_nigra) Vespucci-Trees-botanic.xml:2359(item:name|preset:Sambucus_nigra)
+#: Vespucci-Trees-botanic.xml:1487(item:name|group:Salix|preset:Salix_nigra)
+#: Vespucci-Trees-botanic.xml:2282(item:name|group:Salix|preset:Salix_nigra)
+msgid "Salix nigra"
+msgstr "Amerikanische Schwarz-Weide"
+
+#: Vespucci-Trees-botanic.xml:1483(item:name|group:Salix|preset:Salix_pentandra)
+#: Vespucci-Trees-botanic.xml:2278(item:name|group:Salix|preset:Salix_pentandra)
+msgid "Salix pentandra"
+msgstr "Lorbeer-Weide"
+
+#: Vespucci-Trees-botanic.xml:1475(item:name|group:Salix|preset:Salix_viminalis)
+#: Vespucci-Trees-botanic.xml:2270(item:name|group:Salix|preset:Salix_viminalis)
+msgid "Salix viminalis"
+msgstr "Korb-Weide"
+
+#: Vespucci-Trees-botanic.xml:1706(item:name|preset:Sambucus_nigra)
+#: Vespucci-Trees-botanic.xml:2443(item:name|preset:Sambucus_nigra)
 msgid "Sambucus nigra"
 msgstr "Schwarzer Holunder"
 
@@ -661,143 +819,201 @@ msgstr "Größtenteils Sommergrün"
 msgid "Semi evergreen"
 msgstr "Halbimmergrün"
 
-#: Vespucci-Trees-botanic.xml:1056(item:name|group:Sequoioideae|preset:Sequoia_sempervirens) Vespucci-Trees-botanic.xml:1814(item:name|group:Sequoioideae|preset:Sequoia_sempervirens)
+#: Vespucci-Trees-botanic.xml:1096(item:name|group:Sequoioideae|preset:Sequoia_sempervirens)
+#: Vespucci-Trees-botanic.xml:1878(item:name|group:Sequoioideae|preset:Sequoia_sempervirens)
 msgid "Sequoia sempervirens"
 msgstr "Küstenmammutbaum"
 
-#: Vespucci-Trees-botanic.xml:1064(item:name|group:Sequoioideae|preset:Sequoiadendron_giganteum) Vespucci-Trees-botanic.xml:1822(item:name|group:Sequoioideae|preset:Sequoiadendron_giganteum)
+#: Vespucci-Trees-botanic.xml:1104(item:name|group:Sequoioideae|preset:Sequoiadendron_giganteum)
+#: Vespucci-Trees-botanic.xml:1886(item:name|group:Sequoioideae|preset:Sequoiadendron_giganteum)
 msgid "Sequoiadendron giganteum"
 msgstr "Riesenmammutbaum"
 
-#: Vespucci-Trees-botanic.xml:1055(group:name|group:Sequoioideae) Vespucci-Trees-botanic.xml:1813(group:name|group:Sequoioideae)
+#: Vespucci-Trees-botanic.xml:1095(group:name|group:Sequoioideae)
+#: Vespucci-Trees-botanic.xml:1877(group:name|group:Sequoioideae)
 msgid "Sequoioideae"
 msgstr "Mammutbäume"
 
-#: Vespucci-Trees-botanic.xml:1429(group:name|group:Sorbus) Vespucci-Trees-botanic.xml:2204(group:name|group:Sorbus)
+#: Vespucci-Trees-botanic.xml:1493(group:name|group:Sorbus)
+#: Vespucci-Trees-botanic.xml:2288(group:name|group:Sorbus)
 msgid "Sorbus"
 msgstr "Mehlbeeren"
 
-#: Vespucci-Trees-botanic.xml:1434(item:name|group:Sorbus|preset:Sorbus_americana) Vespucci-Trees-botanic.xml:2209(item:name|group:Sorbus|preset:Sorbus_americana)
+#: Vespucci-Trees-botanic.xml:1498(item:name|group:Sorbus|preset:Sorbus_americana)
+#: Vespucci-Trees-botanic.xml:2293(item:name|group:Sorbus|preset:Sorbus_americana)
 msgid "Sorbus americana"
 msgstr "Amerikanische Eberesche"
 
-#: Vespucci-Trees-botanic.xml:1442(item:name|group:Sorbus|preset:Sorbus_aria) Vespucci-Trees-botanic.xml:2217(item:name|group:Sorbus|preset:Sorbus_aria)
+#: Vespucci-Trees-botanic.xml:1506(item:name|group:Sorbus|preset:Sorbus_aria)
+#: Vespucci-Trees-botanic.xml:2301(item:name|group:Sorbus|preset:Sorbus_aria)
 msgid "Sorbus aria"
 msgstr "Echte Mehlbeere"
 
-#: Vespucci-Trees-botanic.xml:1430(item:name|group:Sorbus|preset:Sorbus_aucuparia) Vespucci-Trees-botanic.xml:2205(item:name|group:Sorbus|preset:Sorbus_aucuparia)
+#: Vespucci-Trees-botanic.xml:1494(item:name|group:Sorbus|preset:Sorbus_aucuparia)
+#: Vespucci-Trees-botanic.xml:2289(item:name|group:Sorbus|preset:Sorbus_aucuparia)
 msgid "Sorbus aucuparia"
 msgstr "Vogelbeerbaum (Eberesche)"
 
-#: Vespucci-Trees-botanic.xml:1438(item:name|group:Sorbus|preset:Sorbus_domestica) Vespucci-Trees-botanic.xml:2213(item:name|group:Sorbus|preset:Sorbus_domestica)
+#: Vespucci-Trees-botanic.xml:1502(item:name|group:Sorbus|preset:Sorbus_domestica)
+#: Vespucci-Trees-botanic.xml:2297(item:name|group:Sorbus|preset:Sorbus_domestica)
 msgid "Sorbus domestica"
 msgstr "Speierling"
 
-#: Vespucci-Trees-botanic.xml:1446(item:name|group:Sorbus|preset:Sorbus_intermedia) Vespucci-Trees-botanic.xml:2221(item:name|group:Sorbus|preset:Sorbus_intermedia)
+#: Vespucci-Trees-botanic.xml:1510(item:name|group:Sorbus|preset:Sorbus_intermedia)
+#: Vespucci-Trees-botanic.xml:2305(item:name|group:Sorbus|preset:Sorbus_intermedia)
 msgid "Sorbus intermedia"
 msgstr "Schwedische Mehlbeere"
 
-#: Vespucci-Trees-botanic.xml:1450(item:name|group:Sorbus|preset:Sorbus_torminalis) Vespucci-Trees-botanic.xml:2225(item:name|group:Sorbus|preset:Sorbus_torminalis)
+#: Vespucci-Trees-botanic.xml:1514(item:name|group:Sorbus|preset:Sorbus_torminalis)
+#: Vespucci-Trees-botanic.xml:2309(item:name|group:Sorbus|preset:Sorbus_torminalis)
 msgid "Sorbus torminalis"
 msgstr "Elsbeere"
 
-#: Vespucci-Trees-botanic.xml:1008(text:text|group:Coniferales|preset:Coniferales_n.sp.|key:species) Vespucci-Trees-botanic.xml:113(text:text|key:species) Vespucci-Trees-botanic.xml:1155(text:text|group:Broad-leaved_trees|preset:Broad-leaved_tree_n.sp.|key:species) Vespucci-Trees-botanic.xml:134(text:text|key:species) Vespucci-Trees-botanic.xml:1712(text:text|group:Tree_rows|preset:Tree_row|key:species) Vespucci-Trees-botanic.xml:1722(text:text|group:Coniferales|preset:Coniferales_n.sp.|key:species) Vespucci-Trees-botanic.xml:173(text:text|key:species) Vespucci-Trees-botanic.xml:1868(text:text|group:Broad-leaved_trees|preset:Broad-leaved_tree_n.sp.|key:species) Vespucci-Trees-botanic.xml:242(text:text|key:species) Vespucci-Trees-botanic.xml:299(text:text|key:species) Vespucci-Trees-botanic.xml:320(text:text|key:species) Vespucci-Trees-botanic.xml:353(text:text|key:species) Vespucci-Trees-botanic.xml:386(text:text|key:species) Vespucci-Trees-botanic.xml:401(text:text|key:species) Vespucci-Trees-botanic.xml:422(text:text|key:species) Vespucci-Trees-botanic.xml:467(text:text|key:species) Vespucci-Trees-botanic.xml:509(text:text|key:species) Vespucci-Trees-botanic.xml:53(text:text|key:species) Vespucci-Trees-botanic.xml:530(text:text|key:species) Vespucci-Trees-botanic.xml:551(text:text|key:species) Vespucci-Trees-botanic.xml:578(text:text|key:species) Vespucci-Trees-botanic.xml:611(text:text|key:species) Vespucci-Trees-botanic.xml:632(text:text|key:species) Vespucci-Trees-botanic.xml:683(text:text|key:species) Vespucci-Trees-botanic.xml:749(text:text|key:species) Vespucci-Trees-botanic.xml:788(text:text|key:species) Vespucci-Trees-botanic.xml:809(text:text|key:species) Vespucci-Trees-botanic.xml:86(text:text|key:species) Vespucci-Trees-botanic.xml:998(text:text|group:Trees|preset:Tree|key:species)
+#: Vespucci-Trees-botanic.xml:1034(text:text|group:Trees|preset:Tree|key:species)
+#: Vespucci-Trees-botanic.xml:1044(text:text|group:Coniferales|preset:Coniferales_n.sp.|key:species)
+#: Vespucci-Trees-botanic.xml:113(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:1199(text:text|group:Broad-leaved_trees|preset:Broad-leaved_tree_n.sp.|key:species)
+#: Vespucci-Trees-botanic.xml:134(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:1772(text:text|group:Tree_rows|preset:Tree_row|key:species)
+#: Vespucci-Trees-botanic.xml:1782(text:text|group:Coniferales|preset:Coniferales_n.sp.|key:species)
+#: Vespucci-Trees-botanic.xml:179(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:1936(text:text|group:Broad-leaved_trees|preset:Broad-leaved_tree_n.sp.|key:species)
+#: Vespucci-Trees-botanic.xml:254(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:311(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:332(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:365(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:398(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:413(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:434(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:473(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:515(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:53(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:536(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:557(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:584(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:617(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:638(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:695(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:785(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:824(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:845(text:text|key:species)
+#: Vespucci-Trees-botanic.xml:86(text:text|key:species)
 msgid "Species"
 msgstr "Spezie"
 
-#: Vespucci-Trees-botanic.xml:15(text:text|key:start_date) Vespucci-Trees-botanic.xml:29(text:text|key:start_date)
+#: Vespucci-Trees-botanic.xml:15(text:text|key:start_date)
+#: Vespucci-Trees-botanic.xml:29(text:text|key:start_date)
 msgid "Start date"
 msgstr "Startdatum"
 
-#: Vespucci-Trees-botanic.xml:1686(item:name|preset:Styphnolobium_japonicum) Vespucci-Trees-botanic.xml:2399(item:name|preset:Styphnolobium_japonicum)
+#: Vespucci-Trees-botanic.xml:1746(item:name|preset:Styphnolobium_japonicum)
+#: Vespucci-Trees-botanic.xml:2483(item:name|preset:Styphnolobium_japonicum)
 msgid "Styphnolobium japonicum"
 msgstr "Schnurbaum"
 
-#: Vespucci-Trees-botanic.xml:1713(text:text|group:Tree_rows|preset:Tree_row|key:taxon) Vespucci-Trees-botanic.xml:999(text:text|group:Trees|preset:Tree|key:taxon)
-msgid "Taxon"
-msgstr "Taxon"
-
-#: Vespucci-Trees-botanic.xml:1134(item:name|preset:Taxus_baccata) Vespucci-Trees-botanic.xml:1848(item:name|preset:Taxus_baccata)
-msgid "Taxus baccata"
-msgstr "Europäische Eibe"
-
-#: Vespucci-Trees-botanic.xml:1305(group:name|group:Tilia) Vespucci-Trees-botanic.xml:2231(group:name|group:Tilia)
-msgid "Tilia"
-msgstr "Linden"
-
-#: Vespucci-Trees-botanic.xml:1319(item:name|group:Tilia|preset:Tilia_americana) Vespucci-Trees-botanic.xml:2245(item:name|group:Tilia|preset:Tilia_americana)
-msgid "Tilia americana"
-msgstr "Amerikanische Linde"
-
-#: Vespucci-Trees-botanic.xml:1311(item:name|group:Tilia|preset:Tilia_cordata) Vespucci-Trees-botanic.xml:2237(item:name|group:Tilia|preset:Tilia_cordata)
-msgid "Tilia cordata"
-msgstr "Winterlinde"
-
-#: Vespucci-Trees-botanic.xml:1306(item:name|group:Tilia|preset:Tilia_n.sp.) Vespucci-Trees-botanic.xml:2232(item:name|group:Tilia|preset:Tilia_n.sp.)
-msgid "Tilia n.sp."
-msgstr "unspezifizierte Linde"
-
-#: Vespucci-Trees-botanic.xml:1315(item:name|group:Tilia|preset:Tilia_platyphyllos) Vespucci-Trees-botanic.xml:2241(item:name|group:Tilia|preset:Tilia_platyphyllos)
-msgid "Tilia platyphyllos"
-msgstr "Sommer-Linde"
-
-#: Vespucci-Trees-botanic.xml:1327(item:name|group:Tilia|preset:Tilia_×_euchlora) Vespucci-Trees-botanic.xml:2253(item:name|group:Tilia|preset:Tilia_×_euchlora)
-msgid "Tilia × euchlora"
-msgstr "Krim-Linde"
-
-#: Vespucci-Trees-botanic.xml:1323(item:name|group:Tilia|preset:Tilia_×_europaea) Vespucci-Trees-botanic.xml:2249(item:name|group:Tilia|preset:Tilia_×_europaea)
-msgid "Tilia × europaea"
-msgstr "Holländische Linde"
-
-#: Vespucci-Trees-botanic.xml:1134(item:name|preset:Taxodium_distichum) Vespucci-Trees-botanic.xml:1848(item:name|preset:Taxodium_distichum)
+#: Vespucci-Trees-botanic.xml:1186(item:name|preset:Taxodium_distichum)
+#: Vespucci-Trees-botanic.xml:1924(item:name|preset:Taxodium_distichum)
 msgid "Taxodium distichum"
 msgstr "Echte Sumpfzypresse"
 
-#: Vespucci-Trees-botanic.xml:993(item:name|group:Trees|preset:Tree)
+#: Vespucci-Trees-botanic.xml:1035(text:text|group:Trees|preset:Tree|key:taxon)
+#: Vespucci-Trees-botanic.xml:1773(text:text|group:Tree_rows|preset:Tree_row|key:taxon)
+msgid "Taxon"
+msgstr "Taxon"
+
+#: Vespucci-Trees-botanic.xml:1174(item:name|preset:Taxus_baccata)
+#: Vespucci-Trees-botanic.xml:1912(item:name|preset:Taxus_baccata)
+msgid "Taxus baccata"
+msgstr "Europäische Eibe"
+
+#: Vespucci-Trees-botanic.xml:1349(group:name|group:Tilia)
+#: Vespucci-Trees-botanic.xml:2315(group:name|group:Tilia)
+msgid "Tilia"
+msgstr "Linden"
+
+#: Vespucci-Trees-botanic.xml:1363(item:name|group:Tilia|preset:Tilia_americana)
+#: Vespucci-Trees-botanic.xml:2329(item:name|group:Tilia|preset:Tilia_americana)
+msgid "Tilia americana"
+msgstr "Amerikanische Linde"
+
+#: Vespucci-Trees-botanic.xml:1355(item:name|group:Tilia|preset:Tilia_cordata)
+#: Vespucci-Trees-botanic.xml:2321(item:name|group:Tilia|preset:Tilia_cordata)
+msgid "Tilia cordata"
+msgstr "Winterlinde"
+
+#: Vespucci-Trees-botanic.xml:1350(item:name|group:Tilia|preset:Tilia_n.sp.)
+#: Vespucci-Trees-botanic.xml:2316(item:name|group:Tilia|preset:Tilia_n.sp.)
+msgid "Tilia n.sp."
+msgstr "unspezifizierte Linde"
+
+#: Vespucci-Trees-botanic.xml:1359(item:name|group:Tilia|preset:Tilia_platyphyllos)
+#: Vespucci-Trees-botanic.xml:2325(item:name|group:Tilia|preset:Tilia_platyphyllos)
+msgid "Tilia platyphyllos"
+msgstr "Sommer-Linde"
+
+#: Vespucci-Trees-botanic.xml:1371(item:name|group:Tilia|preset:Tilia_×_euchlora)
+#: Vespucci-Trees-botanic.xml:2337(item:name|group:Tilia|preset:Tilia_×_euchlora)
+msgid "Tilia × euchlora"
+msgstr "Krim-Linde"
+
+#: Vespucci-Trees-botanic.xml:1367(item:name|group:Tilia|preset:Tilia_×_europaea)
+#: Vespucci-Trees-botanic.xml:2333(item:name|group:Tilia|preset:Tilia_×_europaea)
+msgid "Tilia × europaea"
+msgstr "Holländische Linde"
+
+#: Vespucci-Trees-botanic.xml:1029(item:name|group:Trees|preset:Tree)
 msgid "Tree"
 msgstr "Baum"
 
-#: Vespucci-Trees-botanic.xml:1707(item:name|group:Tree_rows|preset:Tree_row)
+#: Vespucci-Trees-botanic.xml:1767(item:name|group:Tree_rows|preset:Tree_row)
 msgid "Tree row"
 msgstr "Baumreihe"
 
-#: Vespucci-Trees-botanic.xml:1705(group:name|group:Tree_rows)
+#: Vespucci-Trees-botanic.xml:1765(group:name|group:Tree_rows)
 msgid "Tree rows"
 msgstr "Baumreihen"
 
-#: Vespucci-Trees-botanic.xml:991(group:name|group:Trees)
+#: Vespucci-Trees-botanic.xml:1027(group:name|group:Trees)
 msgid "Trees"
 msgstr "Bäume"
 
-#: Vespucci-Trees-botanic.xml:1039(group:name|group:Tsuga) Vespucci-Trees-botanic.xml:1828(group:name|group:Tsuga)
+#: Vespucci-Trees-botanic.xml:1079(group:name|group:Tsuga)
+#: Vespucci-Trees-botanic.xml:1892(group:name|group:Tsuga)
 msgid "Tsuga"
 msgstr "Hemlocktannen"
 
-#: Vespucci-Trees-botanic.xml:1045(item:name|group:Tsuga|preset:Tsuga_canadensis) Vespucci-Trees-botanic.xml:1834(item:name|group:Tsuga|preset:Tsuga_canadensis)
+#: Vespucci-Trees-botanic.xml:1085(item:name|group:Tsuga|preset:Tsuga_canadensis)
+#: Vespucci-Trees-botanic.xml:1898(item:name|group:Tsuga|preset:Tsuga_canadensis)
 msgid "Tsuga canadensis"
 msgstr "Kanadische Hemlocktanne"
 
-#: Vespucci-Trees-botanic.xml:1049(item:name|group:Tsuga|preset:Tsuga_heterophylla) Vespucci-Trees-botanic.xml:1838(item:name|group:Tsuga|preset:Tsuga_heterophylla)
+#: Vespucci-Trees-botanic.xml:1089(item:name|group:Tsuga|preset:Tsuga_heterophylla)
+#: Vespucci-Trees-botanic.xml:1902(item:name|group:Tsuga|preset:Tsuga_heterophylla)
 msgid "Tsuga heterophylla"
 msgstr "Westamerikanische Hemlocktanne"
 
-#: Vespucci-Trees-botanic.xml:1040(item:name|group:Tsuga|preset:Tsuga_n.sp.) Vespucci-Trees-botanic.xml:1829(item:name|group:Tsuga|preset:Tsuga_n.sp.)
+#: Vespucci-Trees-botanic.xml:1080(item:name|group:Tsuga|preset:Tsuga_n.sp.)
+#: Vespucci-Trees-botanic.xml:1893(item:name|group:Tsuga|preset:Tsuga_n.sp.)
 msgid "Tsuga n.sp."
 msgstr "unspezifizierte Hemlocktanne"
 
-#: Vespucci-Trees-botanic.xml:1456(group:name|group:Ulmus) Vespucci-Trees-botanic.xml:2259(group:name|group:Ulmus)
+#: Vespucci-Trees-botanic.xml:1520(group:name|group:Ulmus)
+#: Vespucci-Trees-botanic.xml:2343(group:name|group:Ulmus)
 msgid "Ulmus"
 msgstr "Ulmen"
 
-#: Vespucci-Trees-botanic.xml:1462(item:name|group:Ulmus|preset:Ulmus_glabra) Vespucci-Trees-botanic.xml:2265(item:name|group:Ulmus|preset:Ulmus_glabra)
+#: Vespucci-Trees-botanic.xml:1526(item:name|group:Ulmus|preset:Ulmus_glabra)
+#: Vespucci-Trees-botanic.xml:2349(item:name|group:Ulmus|preset:Ulmus_glabra)
 msgid "Ulmus glabra"
 msgstr "Bergrulme"
 
-#: Vespucci-Trees-botanic.xml:1466(item:name|group:Ulmus|preset:Ulmus_laevis) Vespucci-Trees-botanic.xml:2269(item:name|group:Ulmus|preset:Ulmus_laevis)
+#: Vespucci-Trees-botanic.xml:1530(item:name|group:Ulmus|preset:Ulmus_laevis)
+#: Vespucci-Trees-botanic.xml:2353(item:name|group:Ulmus|preset:Ulmus_laevis)
 msgid "Ulmus laevis"
 msgstr "Flatterulme"
 
-#: Vespucci-Trees-botanic.xml:1457(item:name|group:Ulmus|preset:Ulmus_n.sp.) Vespucci-Trees-botanic.xml:2260(item:name|group:Ulmus|preset:Ulmus_n.sp.)
+#: Vespucci-Trees-botanic.xml:1521(item:name|group:Ulmus|preset:Ulmus_n.sp.)
+#: Vespucci-Trees-botanic.xml:2344(item:name|group:Ulmus|preset:Ulmus_n.sp.)
 msgid "Ulmus n.sp."
 msgstr "unspezifizierte Ulme"
 
@@ -835,4 +1051,3 @@ msgstr "Stadtbaum"
 #: Vespucci-Trees-botanic.xml:0(None)
 msgid "translator-credits"
 msgstr "Übersetzer"
-
